@@ -1,0 +1,1801 @@
+Age,Gender,Education,Income,Work_Experience,Marital_Status,Homeowner,Risk
+54,Male,Bachelor,2547,5,Married,Yes,High
+34,Male,High School,2103,6,Single,Yes,Medium
+27,Female,High School,2653,20,Married,Yes,Medium
+19,Female,Master,3266,10,Married,Yes,High
+18,Female,Master,2036,13,Married,No,Low
+19,Male,High School,2036,6,Married,Yes,Low
+37,Female,Bachelor,3305,6,Married,No,High
+40,Male,High School,2737,15,Single,No,High
+19,Female,High School,1871,3,Married,Yes,Low
+43,Male,High School,2579,7,Married,Yes,Medium
+30,Male,High School,1875,10,Single,No,Low
+36,Male,Bachelor,1873,10,Single,Yes,Medium
+51,Female,Bachelor,2369,9,Married,Yes,High
+43,Male,High School,860,11,Single,Yes,Low
+32,Female,High School,992,13,Single,Yes,Low
+26,Male,Master,1806,13,Married,No,Low
+18,Male,High School,1491,5,Married,Yes,Low
+27,Male,Bachelor,2419,8,Single,Yes,Low
+32,Female,High School,1564,15,Single,Yes,Low
+25,Female,Bachelor,1211,14,Married,No,Low
+33,Male,High School,3225,3,Single,No,High
+35,Male,High School,2041,11,Married,Yes,Medium
+32,Male,High School,2247,0,Married,Yes,Low
+28,Female,High School,1202,10,Single,Yes,Low
+36,Male,Bachelor,1818,19,Single,Yes,Medium
+39,Female,Bachelor,2277,5,Single,Yes,Medium
+24,Female,High School,1394,5,Single,No,Low
+49,Male,High School,2462,13,Single,Yes,High
+34,Male,Bachelor,1779,2,Married,Yes,Low
+35,Female,Bachelor,1995,6,Single,No,Medium
+42,Female,PhD,1778,12,Married,Yes,Medium
+37,Male,Bachelor,3496,6,Married,Yes,High
+44,Male,Bachelor,2190,8,Single,Yes,High
+37,Male,Bachelor,1459,13,Single,Yes,Medium
+28,Male,Master,2775,12,Single,No,Medium
+38,Male,Master,1345,11,Single,Yes,Low
+23,Male,High School,2346,8,Married,Yes,Low
+36,Female,High School,828,11,Single,Yes,Low
+34,Male,High School,1270,9,Married,No,Low
+32,Male,Bachelor,2337,12,Married,Yes,Medium
+33,Male,Bachelor,2716,7,Married,Yes,Medium
+18,Female,Bachelor,2319,9,Married,No,Medium
+29,Female,High School,2119,5,Married,Yes,Low
+35,Male,Bachelor,1989,9,Single,No,Low
+36,Male,Master,1165,5,Single,Yes,Low
+24,Female,High School,1696,4,Married,Yes,Low
+47,Male,Bachelor,1877,11,Single,Yes,Medium
+26,Male,Bachelor,2939,11,Married,Yes,Medium
+44,Male,Master,2440,13,Married,Yes,Medium
+39,Male,Master,965,7,Married,Yes,Low
+28,Male,Bachelor,2426,12,Married,Yes,Low
+52,Female,Bachelor,1930,12,Married,Yes,High
+23,Female,Master,1726,12,Married,Yes,Medium
+44,Male,Bachelor,2628,5,Married,No,High
+45,Female,High School,2921,10,Married,Yes,High
+28,Male,Bachelor,2851,11,Married,No,High
+48,Male,High School,1612,10,Married,Yes,Low
+32,Female,High School,1983,0,Married,Yes,Low
+37,Female,Master,2431,10,Married,Yes,Medium
+37,Male,Bachelor,2882,21,Married,No,High
+33,Male,Bachelor,1864,8,Married,No,Low
+43,Female,High School,2070,6,Single,Yes,Low
+42,Female,High School,1425,11,Married,No,Low
+18,Female,High School,1362,11,Single,Yes,Low
+48,Male,High School,2768,15,Married,Yes,High
+18,Male,Bachelor,3149,3,Married,No,Medium
+45,Male,High School,2149,13,Married,No,High
+46,Male,Bachelor,2902,12,Single,No,High
+24,Female,High School,2453,9,Married,Yes,Medium
+30,Male,PhD,1748,11,Married,Yes,Low
+23,Male,High School,2452,15,Single,Yes,Low
+32,Female,High School,3276,14,Single,Yes,High
+31,Male,High School,2174,4,Married,No,High
+42,Male,Bachelor,3295,14,Married,Yes,High
+48,Female,Bachelor,800,9,Single,Yes,Low
+48,Female,Bachelor,2775,10,Married,Yes,High
+29,Female,Bachelor,2260,10,Married,Yes,Medium
+32,Male,High School,1990,9,Married,Yes,Medium
+18,Female,Bachelor,2264,15,Married,Yes,Medium
+26,Female,Bachelor,808,9,Married,No,Low
+44,Male,High School,2046,4,Married,Yes,Low
+51,Male,High School,2449,8,Married,No,High
+22,Female,High School,3234,10,Single,Yes,High
+29,Male,High School,1837,16,Single,Yes,Medium
+34,Female,Bachelor,1634,13,Married,Yes,Medium
+37,Male,High School,1848,5,Married,No,Medium
+26,Male,High School,2840,22,Married,Yes,High
+39,Male,High School,2430,11,Married,Yes,High
+30,Female,PhD,1829,16,Married,Yes,Low
+34,Male,Master,2559,9,Married,Yes,Medium
+40,Female,High School,2267,12,Single,No,High
+35,Female,High School,2878,14,Married,No,High
+30,Female,High School,1708,16,Single,Yes,Low
+33,Female,Bachelor,1970,15,Married,Yes,Low
+34,Female,High School,1925,14,Single,No,Medium
+31,Male,Bachelor,1175,8,Married,Yes,Low
+32,Female,Bachelor,2407,7,Single,Yes,Medium
+50,Female,Master,2382,11,Single,Yes,Medium
+40,Male,High School,2203,14,Single,Yes,Medium
+32,Male,Master,2035,8,Married,Yes,Low
+41,Female,Bachelor,1209,15,Married,No,Low
+31,Male,High School,1905,17,Married,Yes,Medium
+46,Female,High School,1960,5,Married,Yes,Medium
+38,Male,High School,1638,5,Married,No,Medium
+33,Male,High School,2087,9,Married,Yes,Low
+39,Female,High School,2482,11,Married,Yes,High
+19,Male,Bachelor,3520,7,Single,Yes,High
+23,Male,Bachelor,2322,16,Single,Yes,Medium
+23,Female,Master,2380,12,Married,No,Medium
+36,Male,High School,2147,10,Married,No,Low
+52,Female,PhD,856,2,Married,Yes,Low
+57,Female,High School,2181,3,Married,No,Medium
+41,Female,Bachelor,2242,11,Single,Yes,High
+40,Male,High School,3924,0,Married,No,High
+18,Male,High School,2065,15,Married,Yes,Medium
+29,Female,Master,2411,9,Married,Yes,Medium
+27,Female,High School,2175,26,Married,Yes,High
+28,Female,Bachelor,1381,21,Married,Yes,Medium
+33,Female,Bachelor,2999,9,Married,Yes,High
+30,Male,Bachelor,2726,9,Single,Yes,Medium
+18,Male,Bachelor,2753,14,Single,No,High
+42,Male,Bachelor,1563,18,Married,Yes,Medium
+24,Male,High School,3181,1,Married,No,Medium
+37,Male,Bachelor,1218,1,Single,Yes,Low
+55,Female,Master,2610,6,Married,Yes,High
+25,Male,High School,3733,12,Married,No,High
+18,Male,High School,1506,12,Married,Yes,Low
+32,Male,Bachelor,1803,15,Single,No,Medium
+46,Female,Bachelor,2269,4,Married,No,Medium
+54,Female,Bachelor,1847,0,Married,Yes,Medium
+22,Female,High School,1114,14,Married,Yes,Low
+39,Female,Bachelor,2247,5,Married,Yes,Low
+30,Male,High School,1456,0,Single,Yes,Low
+33,Female,Bachelor,2531,10,Married,Yes,Low
+61,Male,Bachelor,1556,13,Single,No,High
+19,Male,High School,3284,9,Single,Yes,High
+37,Female,Bachelor,1651,7,Married,Yes,Low
+39,Female,PhD,1974,9,Married,Yes,Medium
+45,Male,Bachelor,2769,8,Married,No,High
+35,Male,Master,1338,3,Single,Yes,Low
+38,Female,Bachelor,2359,6,Married,Yes,Medium
+31,Male,Bachelor,3114,12,Married,Yes,High
+37,Male,High School,1074,11,Married,No,Low
+31,Male,High School,2329,10,Married,No,Medium
+41,Male,High School,2381,5,Married,Yes,Low
+31,Female,Bachelor,2747,9,Married,No,Medium
+38,Male,Master,1334,0,Single,Yes,Low
+34,Male,High School,1275,10,Single,No,Low
+46,Female,Bachelor,2565,17,Single,Yes,High
+34,Female,Bachelor,2407,2,Married,Yes,Medium
+18,Male,Bachelor,2375,7,Married,Yes,Low
+47,Male,High School,2442,11,Married,Yes,High
+25,Male,Bachelor,1723,16,Single,No,Medium
+28,Female,High School,2362,7,Single,Yes,Medium
+29,Female,High School,2405,6,Single,No,Medium
+48,Female,PhD,1699,0,Single,Yes,Low
+18,Female,High School,3506,10,Married,Yes,High
+66,Female,High School,2531,20,Married,Yes,High
+45,Female,Master,1366,11,Married,Yes,Medium
+37,Male,High School,2659,9,Married,No,Medium
+34,Male,Bachelor,1517,11,Married,Yes,Low
+37,Female,High School,2750,9,Married,Yes,High
+40,Male,High School,3011,5,Single,Yes,High
+41,Male,High School,1625,14,Married,Yes,Medium
+40,Female,High School,2874,11,Married,No,Medium
+35,Male,Bachelor,2488,10,Married,Yes,Medium
+33,Female,Bachelor,2775,5,Single,No,Medium
+33,Female,Bachelor,3527,16,Single,Yes,High
+33,Male,Master,2028,13,Single,Yes,Medium
+46,Female,High School,1672,7,Married,No,Low
+40,Male,Bachelor,1577,15,Married,Yes,Medium
+18,Male,Bachelor,1628,7,Married,Yes,Low
+41,Female,Master,2146,6,Married,Yes,Medium
+36,Female,High School,2438,6,Single,Yes,High
+34,Female,Bachelor,2393,1,Married,No,Medium
+31,Male,Master,2779,12,Married,Yes,High
+46,Female,High School,2209,0,Married,No,Medium
+44,Male,Master,3217,3,Married,Yes,High
+27,Female,High School,2014,0,Single,Yes,Medium
+39,Male,Bachelor,4104,9,Single,Yes,High
+25,Female,Master,2637,9,Married,Yes,Medium
+21,Male,Bachelor,1599,8,Married,No,Low
+28,Male,Bachelor,1450,4,Married,Yes,Low
+43,Male,High School,2537,4,Married,Yes,High
+44,Female,Master,2043,12,Married,No,High
+40,Female,Bachelor,2699,7,Married,No,Medium
+42,Female,High School,2531,11,Married,Yes,High
+40,Male,Bachelor,2149,5,Married,No,Low
+28,Male,Bachelor,1607,10,Single,Yes,Medium
+39,Male,High School,1139,16,Married,Yes,Low
+43,Female,High School,1887,12,Married,Yes,Medium
+42,Male,High School,2799,7,Married,Yes,High
+46,Female,Bachelor,2349,11,Married,Yes,Medium
+42,Female,Bachelor,1327,8,Married,Yes,Low
+38,Female,Bachelor,2321,10,Married,Yes,Medium
+45,Female,Master,2469,8,Single,No,Medium
+34,Female,Master,1581,9,Married,No,Low
+26,Female,Bachelor,2307,11,Married,No,High
+33,Male,High School,2240,5,Married,Yes,Medium
+27,Female,Bachelor,1399,4,Single,Yes,Low
+28,Male,Bachelor,2450,3,Single,Yes,Medium
+33,Male,Bachelor,2592,1,Single,Yes,High
+27,Male,Bachelor,2958,3,Married,Yes,Low
+31,Male,High School,2937,10,Single,Yes,Medium
+18,Male,Master,1235,5,Married,No,Low
+37,Male,High School,1543,12,Single,Yes,Low
+35,Female,Bachelor,2560,10,Single,Yes,Medium
+26,Male,High School,2559,0,Single,Yes,Low
+41,Female,Master,2560,13,Single,Yes,High
+44,Male,High School,4896,14,Married,Yes,High
+18,Female,High School,2599,5,Married,Yes,Low
+27,Female,High School,2994,12,Married,Yes,Low
+27,Female,High School,2867,5,Single,Yes,Medium
+25,Female,High School,2655,10,Single,Yes,Medium
+43,Male,Bachelor,1979,3,Married,No,Medium
+33,Female,Bachelor,2731,1,Married,No,Low
+32,Male,High School,1659,8,Single,Yes,Low
+18,Male,High School,2034,9,Married,Yes,Low
+41,Female,Master,1860,8,Married,No,Medium
+22,Male,Bachelor,2257,4,Single,Yes,Low
+35,Female,Bachelor,3820,8,Married,Yes,High
+37,Female,Bachelor,892,11,Single,Yes,Low
+48,Male,High School,2680,9,Married,Yes,High
+21,Male,High School,1071,10,Single,No,Low
+18,Male,High School,1869,6,Married,No,Low
+36,Female,Master,2962,15,Single,Yes,High
+53,Female,PhD,2244,4,Married,Yes,Medium
+47,Male,Bachelor,1445,12,Single,Yes,Low
+37,Male,High School,1699,15,Married,Yes,Medium
+30,Female,High School,2675,12,Married,No,High
+43,Female,High School,1688,8,Married,Yes,Medium
+25,Male,Bachelor,2351,7,Married,Yes,Medium
+39,Male,High School,2231,15,Married,No,High
+40,Female,Master,1743,2,Single,No,Medium
+45,Male,High School,3700,5,Single,No,High
+62,Male,Master,2643,8,Married,Yes,High
+38,Female,Bachelor,800,16,Single,Yes,Low
+29,Female,Bachelor,2330,11,Married,Yes,Medium
+34,Male,Bachelor,1736,5,Single,Yes,Low
+18,Male,Bachelor,2796,8,Married,No,Medium
+28,Male,Bachelor,1645,6,Married,Yes,Low
+30,Male,Bachelor,2119,6,Married,No,Medium
+29,Female,Bachelor,2553,14,Married,Yes,Medium
+36,Male,PhD,2806,3,Single,No,Medium
+26,Female,Bachelor,1359,18,Married,Yes,Low
+46,Female,Bachelor,1965,14,Single,No,Medium
+35,Male,Master,1867,15,Married,Yes,High
+34,Male,High School,1742,7,Married,Yes,Medium
+31,Female,High School,3435,9,Married,No,High
+36,Female,Bachelor,2483,2,Single,Yes,Medium
+43,Female,Bachelor,1317,7,Single,Yes,Low
+26,Male,Master,2842,12,Single,No,Medium
+28,Female,Bachelor,3685,16,Single,Yes,High
+31,Female,Bachelor,2922,4,Single,Yes,Medium
+21,Female,Bachelor,1136,8,Married,Yes,Low
+26,Male,High School,1861,9,Single,No,Medium
+30,Female,Bachelor,3086,3,Married,Yes,High
+43,Female,Master,1704,12,Married,Yes,Medium
+37,Male,High School,2510,6,Married,Yes,Medium
+36,Male,Bachelor,2742,9,Single,Yes,High
+43,Male,Bachelor,1551,7,Single,Yes,Medium
+33,Male,High School,2158,6,Married,Yes,Medium
+38,Male,High School,800,9,Single,Yes,Low
+33,Female,PhD,1482,8,Married,Yes,Medium
+37,Male,High School,2023,8,Single,Yes,Medium
+29,Male,High School,1326,6,Married,Yes,Low
+18,Female,High School,3342,11,Married,Yes,Medium
+33,Male,Bachelor,1198,18,Married,Yes,Medium
+49,Male,Bachelor,1891,10,Single,Yes,High
+44,Female,Bachelor,2291,14,Single,Yes,Medium
+44,Female,High School,3208,3,Married,Yes,High
+47,Female,Master,1194,10,Married,No,Medium
+35,Female,High School,3014,4,Single,Yes,Medium
+36,Male,High School,2207,2,Single,Yes,Medium
+28,Female,Bachelor,1512,6,Single,Yes,Low
+31,Male,High School,2523,15,Married,Yes,High
+41,Female,Master,2339,14,Single,No,Medium
+47,Male,Master,1779,11,Married,Yes,High
+33,Female,High School,2248,2,Married,Yes,Low
+30,Female,Master,1930,9,Married,Yes,Low
+35,Female,Bachelor,2279,11,Married,Yes,Medium
+41,Male,Master,2663,10,Married,Yes,High
+20,Male,High School,3310,0,Married,Yes,Low
+18,Female,Bachelor,1333,5,Single,No,Low
+29,Female,High School,3693,9,Married,Yes,High
+22,Male,Master,833,12,Married,Yes,Low
+29,Female,High School,2093,0,Married,Yes,Low
+33,Female,Bachelor,2611,9,Married,Yes,Medium
+30,Male,High School,2396,10,Single,Yes,Medium
+49,Female,High School,1764,14,Married,Yes,Medium
+38,Female,Bachelor,2054,13,Single,Yes,Low
+38,Male,Master,1854,12,Married,Yes,Low
+41,Male,Bachelor,1787,6,Single,No,Low
+23,Female,Master,2794,0,Married,Yes,Low
+45,Female,High School,2449,8,Single,No,High
+34,Male,Bachelor,1714,15,Married,Yes,Medium
+41,Female,Bachelor,2829,16,Married,Yes,High
+24,Female,High School,2415,13,Single,No,Medium
+19,Female,Bachelor,2769,12,Married,Yes,Low
+43,Male,Bachelor,2640,11,Married,No,High
+38,Female,Bachelor,1619,7,Married,No,Medium
+25,Male,Bachelor,1807,9,Single,Yes,Low
+26,Male,Bachelor,2723,18,Married,Yes,Medium
+46,Male,High School,2627,5,Married,Yes,Medium
+23,Male,High School,2185,18,Married,No,Medium
+51,Female,Bachelor,2282,8,Married,No,Medium
+25,Male,High School,3094,16,Married,Yes,High
+41,Female,High School,1785,2,Single,Yes,Low
+31,Male,Bachelor,2582,12,Single,Yes,Medium
+41,Male,Bachelor,2058,6,Single,Yes,Medium
+29,Female,High School,2047,2,Single,Yes,Low
+33,Female,Bachelor,2969,11,Married,Yes,Medium
+35,Male,Bachelor,2777,15,Married,Yes,High
+24,Female,High School,2769,5,Single,Yes,Medium
+42,Male,Bachelor,3113,2,Married,No,Medium
+29,Male,Bachelor,2214,9,Married,No,High
+32,Female,Bachelor,2677,9,Married,No,Medium
+25,Female,Bachelor,1982,12,Married,No,Medium
+18,Male,High School,2426,14,Married,Yes,Low
+33,Female,Bachelor,2108,9,Single,Yes,Low
+59,Female,High School,2267,19,Single,Yes,High
+42,Male,Master,2616,11,Single,No,High
+34,Female,Master,1627,8,Married,No,Low
+32,Female,Bachelor,3664,1,Single,No,High
+35,Female,High School,1495,8,Married,No,Low
+40,Male,High School,1350,8,Single,Yes,Low
+23,Female,High School,3010,14,Married,Yes,Medium
+46,Male,Bachelor,2754,12,Single,Yes,High
+42,Female,High School,2636,4,Single,Yes,Medium
+42,Female,Bachelor,2639,10,Single,Yes,High
+39,Male,High School,2191,13,Married,Yes,Medium
+35,Female,PhD,1571,17,Single,Yes,Medium
+41,Female,High School,2253,14,Married,Yes,Medium
+40,Female,Master,1725,13,Single,Yes,Medium
+31,Male,Master,2882,10,Single,Yes,Low
+29,Male,Bachelor,2097,11,Married,Yes,Low
+36,Female,Bachelor,1622,16,Single,Yes,Medium
+50,Male,Bachelor,1975,3,Married,Yes,Medium
+22,Female,Bachelor,2489,8,Married,No,Low
+20,Male,High School,1805,6,Single,Yes,Low
+36,Male,High School,1624,11,Single,Yes,Low
+35,Male,Bachelor,2370,16,Single,No,High
+36,Male,Bachelor,2371,7,Married,No,Low
+37,Female,Bachelor,1845,0,Married,No,Low
+32,Male,High School,1870,7,Married,Yes,Low
+49,Male,High School,2362,14,Married,Yes,High
+18,Male,High School,1186,12,Single,Yes,Low
+26,Female,High School,1214,12,Married,Yes,Low
+33,Male,High School,1697,8,Married,No,Low
+18,Female,High School,2050,3,Married,Yes,Low
+33,Female,High School,2417,12,Married,Yes,Medium
+51,Female,Master,3232,5,Married,Yes,High
+35,Female,High School,2800,20,Single,Yes,High
+37,Female,Bachelor,2088,12,Married,Yes,Medium
+22,Female,High School,2186,7,Married,No,Low
+28,Male,Master,1498,6,Single,No,Low
+31,Male,Bachelor,2187,9,Married,No,Medium
+31,Male,High School,1997,8,Single,Yes,Low
+47,Female,Bachelor,2425,15,Married,Yes,High
+40,Female,High School,1620,10,Married,Yes,Low
+23,Female,Bachelor,2563,6,Single,Yes,Low
+37,Male,High School,3272,19,Married,No,High
+39,Female,PhD,2123,10,Married,Yes,High
+46,Male,Bachelor,2481,13,Married,No,High
+50,Male,High School,2683,6,Single,Yes,High
+24,Male,Bachelor,1919,11,Single,Yes,Medium
+26,Male,High School,2356,11,Single,Yes,Medium
+22,Female,Master,2208,0,Single,Yes,Low
+32,Male,Bachelor,2268,20,Married,No,High
+39,Male,Bachelor,1658,16,Married,Yes,Medium
+44,Female,High School,2217,8,Married,No,Medium
+34,Female,Master,2548,4,Married,No,Low
+31,Female,Bachelor,3215,11,Married,Yes,High
+36,Male,High School,2871,10,Married,No,High
+26,Female,High School,3707,11,Married,Yes,High
+55,Female,High School,1662,10,Married,Yes,Medium
+18,Male,PhD,2810,12,Married,No,Medium
+36,Female,High School,2328,17,Single,No,High
+55,Male,Bachelor,3732,12,Single,Yes,High
+35,Male,High School,1634,4,Married,Yes,Low
+33,Female,High School,1612,16,Married,Yes,Low
+31,Female,Bachelor,1780,18,Married,Yes,Medium
+33,Male,PhD,800,25,Married,Yes,Low
+48,Female,Bachelor,1831,4,Single,No,Medium
+18,Female,Master,1668,11,Married,Yes,Low
+50,Female,Bachelor,2305,0,Single,Yes,Medium
+20,Male,High School,2439,12,Married,Yes,Low
+32,Female,High School,3513,7,Married,Yes,Medium
+30,Male,Bachelor,2865,19,Single,Yes,High
+40,Female,PhD,1796,6,Married,Yes,Medium
+19,Male,Master,1571,1,Married,No,Low
+39,Male,High School,2544,7,Single,Yes,Medium
+55,Female,High School,1275,0,Married,Yes,Low
+21,Male,High School,3482,13,Married,No,High
+36,Male,Master,3025,0,Married,Yes,Low
+28,Male,Master,1871,10,Single,Yes,Low
+39,Female,Bachelor,1000,0,Single,Yes,Low
+35,Male,High School,3147,8,Married,Yes,High
+28,Female,Bachelor,2119,18,Single,Yes,Medium
+39,Male,Bachelor,3066,11,Married,Yes,High
+53,Male,High School,1083,5,Single,No,Low
+33,Male,Bachelor,1780,9,Married,No,Medium
+42,Male,High School,2203,10,Married,Yes,High
+22,Male,High School,2232,12,Single,Yes,Medium
+25,Male,Master,1884,3,Single,Yes,Low
+39,Female,Bachelor,2635,12,Married,Yes,Medium
+49,Female,Bachelor,1452,0,Married,Yes,Low
+38,Male,Bachelor,2100,6,Single,Yes,Medium
+31,Male,High School,2284,7,Married,Yes,Medium
+34,Female,Bachelor,2560,13,Single,No,High
+22,Male,Bachelor,2698,10,Married,Yes,Medium
+41,Male,Bachelor,1412,2,Married,No,Medium
+43,Female,Bachelor,1126,5,Single,No,Medium
+30,Female,High School,3094,10,Married,Yes,High
+30,Female,High School,2432,9,Single,No,High
+37,Male,Bachelor,1676,7,Single,No,Low
+30,Male,High School,3285,7,Single,Yes,High
+34,Female,Bachelor,2280,13,Married,Yes,High
+55,Male,High School,3025,7,Married,Yes,High
+32,Female,High School,2247,9,Married,No,Medium
+31,Female,High School,3642,20,Single,Yes,High
+28,Male,PhD,3428,2,Single,Yes,Medium
+42,Female,High School,2025,0,Married,Yes,Low
+33,Female,Bachelor,2880,13,Single,Yes,High
+28,Female,Bachelor,2651,6,Married,Yes,Medium
+48,Male,High School,3158,8,Single,No,High
+49,Male,Bachelor,1524,6,Married,Yes,Medium
+28,Male,Bachelor,2680,8,Single,No,Medium
+18,Male,Bachelor,2940,17,Married,No,High
+45,Female,Master,968,14,Single,Yes,Low
+28,Male,High School,1371,14,Single,Yes,Low
+42,Male,High School,800,2,Single,No,Low
+18,Male,Master,2011,4,Single,No,Low
+43,Female,High School,2702,0,Single,Yes,Medium
+22,Male,Bachelor,3251,5,Married,Yes,Medium
+42,Male,Bachelor,2251,14,Married,Yes,High
+35,Male,High School,3340,12,Married,No,High
+25,Female,Bachelor,1233,8,Married,No,Low
+30,Male,High School,1007,9,Married,Yes,Low
+41,Female,High School,2161,6,Married,No,Medium
+36,Female,High School,2468,11,Married,Yes,Medium
+40,Male,Master,2177,13,Married,No,Medium
+54,Female,High School,800,1,Married,Yes,Low
+19,Male,Bachelor,2137,11,Single,Yes,Medium
+51,Female,Master,1286,14,Single,Yes,High
+36,Female,Bachelor,2668,7,Married,Yes,Medium
+26,Male,Bachelor,2456,13,Single,Yes,Medium
+21,Male,Bachelor,1542,24,Married,Yes,Medium
+33,Male,High School,1840,9,Married,Yes,Low
+44,Female,Bachelor,1458,11,Single,Yes,Medium
+33,Male,Bachelor,2156,6,Single,Yes,Medium
+50,Female,PhD,2868,10,Married,No,High
+20,Male,Master,1509,12,Married,No,Low
+34,Female,Master,2552,10,Single,Yes,High
+22,Male,Master,1828,4,Married,Yes,Low
+38,Female,Bachelor,1644,11,Married,Yes,Low
+43,Male,Bachelor,2125,17,Single,No,High
+30,Female,Master,1475,12,Single,No,Low
+18,Male,High School,1812,14,Married,Yes,Medium
+36,Male,PhD,1361,8,Single,No,Low
+39,Male,Bachelor,3575,13,Married,No,High
+39,Female,Bachelor,2224,11,Married,No,High
+47,Male,Bachelor,1710,5,Married,Yes,Medium
+24,Female,PhD,2349,11,Married,Yes,Medium
+41,Male,High School,2121,5,Married,Yes,Medium
+46,Female,Bachelor,2045,6,Single,Yes,Low
+18,Female,Bachelor,2629,10,Single,Yes,Medium
+38,Female,High School,2730,11,Married,Yes,Medium
+29,Male,Bachelor,1828,4,Married,Yes,Low
+34,Male,Bachelor,1796,15,Single,Yes,Low
+38,Male,Bachelor,2007,12,Married,Yes,Medium
+30,Male,High School,800,6,Single,Yes,Low
+28,Female,Bachelor,1139,2,Single,No,Low
+35,Female,Bachelor,3156,9,Single,No,High
+24,Female,Bachelor,3351,7,Married,Yes,High
+24,Male,High School,2025,10,Married,Yes,Low
+41,Female,PhD,2603,8,Single,Yes,High
+23,Male,Bachelor,2417,0,Single,Yes,Low
+41,Female,Bachelor,4355,8,Single,No,High
+39,Male,Bachelor,2983,8,Married,Yes,High
+18,Male,High School,2110,13,Single,Yes,Low
+28,Male,Bachelor,1531,6,Married,No,Low
+46,Female,Bachelor,1075,18,Single,Yes,Low
+25,Female,Bachelor,2342,0,Married,Yes,Low
+30,Male,Bachelor,1670,16,Single,Yes,Low
+39,Male,Bachelor,1204,8,Married,Yes,Low
+42,Male,High School,1747,14,Single,Yes,High
+32,Female,Bachelor,1442,10,Single,Yes,Low
+29,Male,High School,3380,15,Married,Yes,High
+49,Female,High School,2817,8,Married,No,High
+52,Female,Master,2194,4,Married,Yes,Medium
+44,Female,Bachelor,3235,17,Married,No,High
+35,Male,Bachelor,2254,9,Married,Yes,Medium
+26,Female,Bachelor,1597,11,Married,Yes,Medium
+26,Female,Master,3266,16,Single,Yes,High
+40,Male,Bachelor,2577,4,Married,Yes,Medium
+39,Female,Bachelor,1473,12,Married,Yes,Low
+49,Female,High School,2066,7,Single,Yes,Medium
+41,Male,PhD,1587,9,Married,No,Medium
+19,Male,Master,1232,10,Single,Yes,Low
+45,Male,Master,2848,2,Single,Yes,High
+25,Female,High School,3536,6,Married,No,High
+31,Male,High School,1221,16,Married,Yes,Low
+37,Female,High School,2594,14,Single,Yes,High
+54,Female,High School,1744,9,Single,No,Low
+66,Female,Master,1859,11,Married,Yes,High
+41,Male,High School,1785,8,Single,Yes,Low
+33,Female,High School,1595,16,Married,Yes,Medium
+40,Male,High School,2233,8,Married,Yes,Low
+43,Male,High School,1618,11,Married,Yes,Medium
+31,Female,High School,2389,15,Married,Yes,Medium
+52,Male,Bachelor,2164,6,Married,No,High
+37,Female,Bachelor,2032,17,Married,No,Medium
+39,Male,High School,1564,2,Married,Yes,Low
+41,Male,Bachelor,1796,18,Married,Yes,Medium
+39,Male,Bachelor,2728,8,Married,No,High
+43,Female,High School,2550,8,Married,Yes,Medium
+28,Female,Bachelor,1515,0,Single,Yes,Low
+29,Female,Bachelor,2269,7,Single,Yes,Medium
+23,Male,Bachelor,2725,4,Single,No,High
+39,Male,Bachelor,1031,6,Single,Yes,Low
+42,Female,High School,2580,9,Single,No,Medium
+39,Male,PhD,1736,14,Married,Yes,Medium
+51,Male,Master,2599,11,Married,Yes,High
+34,Female,Master,1665,11,Married,Yes,Low
+41,Male,High School,936,4,Married,Yes,Low
+24,Female,Master,1060,5,Married,No,Low
+31,Female,Master,2233,18,Married,No,High
+41,Male,Master,2381,6,Married,Yes,Medium
+43,Male,High School,1566,18,Single,No,High
+32,Male,Bachelor,2647,8,Married,No,Medium
+34,Female,PhD,1036,10,Married,Yes,Low
+19,Female,Bachelor,2153,15,Single,Yes,High
+31,Male,Bachelor,1352,16,Married,Yes,Low
+43,Male,Master,1743,9,Married,Yes,Low
+40,Female,Bachelor,2233,8,Single,Yes,Medium
+40,Female,Bachelor,1597,9,Married,Yes,High
+35,Male,Bachelor,1930,11,Single,Yes,High
+35,Male,Master,2904,14,Single,No,High
+28,Male,High School,1796,10,Married,No,Low
+41,Female,Bachelor,2784,13,Married,Yes,High
+39,Female,Bachelor,1409,18,Married,Yes,Medium
+39,Male,Bachelor,2570,11,Married,Yes,High
+29,Female,Bachelor,3209,11,Single,Yes,High
+18,Male,Master,800,2,Married,Yes,Low
+45,Male,Master,1642,0,Married,Yes,Low
+30,Male,High School,2603,11,Married,Yes,Medium
+26,Female,Bachelor,2057,9,Single,Yes,Medium
+41,Male,High School,2459,7,Married,Yes,High
+31,Female,High School,1777,11,Married,Yes,Low
+45,Male,Bachelor,2260,9,Married,No,High
+41,Male,Master,2091,15,Married,No,Low
+41,Male,Master,3017,10,Single,Yes,High
+21,Female,High School,2378,6,Married,Yes,Medium
+47,Male,High School,2436,14,Married,Yes,High
+37,Female,Bachelor,1911,8,Single,Yes,Medium
+31,Male,Bachelor,1858,12,Married,Yes,Medium
+36,Male,High School,1897,7,Married,Yes,Medium
+18,Male,Master,2476,6,Married,No,Medium
+39,Male,Master,1905,10,Married,Yes,Medium
+24,Male,Bachelor,2402,10,Single,No,Medium
+21,Male,Master,3652,12,Married,Yes,High
+19,Female,High School,2809,8,Married,Yes,Low
+46,Female,Bachelor,1971,0,Single,Yes,Low
+28,Male,Bachelor,3040,7,Single,Yes,High
+50,Male,High School,1914,13,Single,Yes,High
+29,Male,Master,800,8,Married,Yes,Low
+18,Male,Bachelor,1494,8,Married,Yes,Low
+23,Male,Bachelor,890,14,Married,Yes,Low
+47,Female,High School,1953,6,Married,Yes,Medium
+33,Male,High School,2212,2,Married,No,Medium
+29,Male,High School,3373,9,Single,Yes,High
+36,Male,Bachelor,2428,7,Married,Yes,Medium
+40,Male,Bachelor,2046,5,Married,Yes,Low
+46,Female,High School,2780,9,Married,No,High
+49,Male,Bachelor,800,12,Married,Yes,Low
+31,Male,Bachelor,2364,9,Married,Yes,Medium
+21,Female,Bachelor,2739,11,Married,Yes,Low
+30,Male,Bachelor,1164,19,Single,Yes,Low
+37,Female,Master,3000,8,Married,Yes,High
+25,Female,Bachelor,2436,11,Single,No,Low
+25,Male,Bachelor,1909,7,Single,No,Medium
+38,Female,High School,2642,5,Married,Yes,Low
+34,Male,High School,3789,7,Single,Yes,High
+35,Female,High School,2327,7,Single,Yes,Medium
+27,Male,Bachelor,2373,11,Single,Yes,Medium
+32,Male,High School,1878,21,Married,No,Medium
+25,Female,High School,1605,6,Married,Yes,Low
+43,Female,Bachelor,2781,7,Married,Yes,Medium
+45,Female,High School,1600,9,Single,Yes,Medium
+18,Female,High School,2250,11,Married,No,Medium
+25,Male,High School,1865,11,Married,Yes,Low
+20,Male,Bachelor,2535,16,Single,Yes,High
+28,Male,High School,2433,0,Married,Yes,Medium
+34,Male,Bachelor,2926,0,Married,Yes,High
+20,Male,Bachelor,1842,7,Single,No,Low
+25,Female,Bachelor,2011,15,Married,Yes,Medium
+24,Male,Bachelor,1514,2,Married,Yes,Low
+37,Male,Master,1888,0,Single,Yes,Low
+35,Male,High School,2464,12,Single,No,High
+27,Female,High School,2729,11,Single,Yes,High
+36,Female,High School,1554,4,Single,Yes,Low
+29,Female,High School,2808,5,Married,Yes,Medium
+32,Male,High School,3148,5,Married,Yes,Medium
+51,Female,High School,2489,10,Single,No,High
+48,Male,Bachelor,3513,6,Married,No,High
+22,Female,Bachelor,1658,12,Single,Yes,Low
+43,Female,High School,1328,0,Single,Yes,Low
+43,Male,Bachelor,954,5,Single,No,Low
+23,Male,High School,3247,4,Married,Yes,High
+43,Female,High School,2658,8,Married,Yes,Medium
+50,Male,Bachelor,2161,7,Single,Yes,High
+23,Female,High School,2395,13,Single,Yes,Medium
+25,Male,High School,1412,0,Married,Yes,Low
+45,Male,Bachelor,3912,10,Married,No,High
+37,Male,Master,2290,12,Single,No,High
+40,Male,Bachelor,2276,19,Single,Yes,High
+38,Male,High School,2708,7,Married,Yes,Medium
+38,Male,Master,2536,11,Married,Yes,High
+21,Female,Bachelor,2356,0,Single,Yes,Low
+45,Male,Bachelor,1646,0,Married,Yes,Medium
+46,Female,Master,2530,14,Married,Yes,High
+32,Female,Bachelor,3517,9,Married,No,High
+34,Female,High School,3141,15,Married,No,Medium
+19,Male,Bachelor,3315,3,Married,Yes,Medium
+40,Male,Bachelor,1842,12,Married,Yes,Medium
+40,Male,Bachelor,1507,19,Single,Yes,Medium
+34,Female,Bachelor,2111,12,Single,No,High
+46,Female,Master,2239,11,Married,Yes,Medium
+31,Male,Master,2965,10,Single,Yes,Medium
+40,Male,Master,1015,2,Married,Yes,Low
+24,Female,Master,3270,16,Married,No,Medium
+34,Male,Master,2089,6,Married,No,Medium
+33,Female,High School,1901,12,Married,Yes,Low
+37,Female,High School,1491,2,Single,No,Low
+31,Female,Bachelor,1041,4,Married,Yes,Low
+33,Male,Master,2776,17,Married,Yes,High
+43,Male,Bachelor,2251,8,Single,No,High
+30,Female,Bachelor,1297,17,Married,No,Low
+18,Female,High School,1293,9,Single,Yes,Medium
+52,Male,High School,1964,0,Married,Yes,Medium
+48,Male,Bachelor,3368,14,Married,No,High
+22,Female,High School,2018,7,Single,No,Low
+41,Female,High School,1147,13,Married,No,Low
+29,Female,High School,2027,10,Married,Yes,Low
+37,Female,High School,2009,2,Single,No,Medium
+37,Male,Bachelor,800,10,Single,No,Low
+32,Male,High School,2161,20,Married,Yes,High
+27,Female,Bachelor,2038,12,Married,No,Medium
+28,Female,High School,2687,9,Married,Yes,Medium
+25,Male,Master,3494,15,Married,Yes,High
+26,Male,High School,2988,11,Married,Yes,Medium
+34,Female,Bachelor,2011,11,Married,Yes,Medium
+27,Male,Bachelor,1425,4,Married,Yes,Low
+41,Male,High School,4001,11,Married,No,High
+49,Female,Master,2241,15,Single,Yes,Low
+29,Female,Bachelor,2209,5,Single,Yes,Medium
+37,Female,Bachelor,2183,17,Married,No,Medium
+39,Male,High School,2338,9,Single,Yes,High
+39,Female,Master,2098,5,Married,Yes,Medium
+35,Female,Bachelor,1798,14,Married,Yes,Low
+42,Female,High School,1817,8,Single,Yes,Medium
+39,Female,High School,2177,13,Married,Yes,Medium
+22,Male,Master,1819,8,Married,No,Medium
+43,Male,Bachelor,1701,9,Married,Yes,Medium
+43,Male,Bachelor,2274,12,Single,No,High
+27,Male,Bachelor,2021,11,Single,Yes,Medium
+35,Female,Bachelor,3252,0,Married,Yes,High
+41,Female,High School,800,4,Married,Yes,Low
+32,Female,High School,2964,14,Single,No,High
+45,Female,Bachelor,3072,9,Single,Yes,Medium
+58,Male,PhD,800,7,Married,Yes,Low
+27,Male,High School,1960,3,Married,Yes,Low
+21,Male,Bachelor,1939,4,Married,Yes,Low
+38,Male,Bachelor,1214,0,Married,Yes,Low
+42,Male,Bachelor,1655,9,Married,Yes,Low
+32,Female,Master,1422,7,Single,Yes,Low
+49,Female,Bachelor,3426,5,Married,No,High
+21,Male,High School,2854,9,Single,Yes,Low
+41,Male,PhD,3090,11,Married,Yes,High
+28,Female,Bachelor,2705,20,Married,Yes,High
+52,Male,Master,1409,2,Single,Yes,Medium
+54,Female,Bachelor,1832,15,Married,No,High
+27,Female,Master,2542,14,Married,Yes,Medium
+29,Female,High School,1344,6,Single,Yes,Low
+43,Male,High School,2699,11,Married,No,High
+31,Female,Master,2031,7,Single,Yes,Low
+34,Male,High School,1937,10,Married,Yes,Low
+35,Female,High School,2697,17,Married,Yes,High
+18,Male,Bachelor,2510,13,Single,No,Low
+34,Male,Master,1947,12,Married,No,Low
+28,Female,High School,3011,7,Single,No,Medium
+30,Female,Master,1443,2,Married,Yes,Low
+49,Female,Bachelor,2631,8,Married,No,High
+22,Female,Bachelor,2615,16,Single,Yes,Medium
+43,Female,Master,1983,2,Single,Yes,Medium
+32,Male,Bachelor,2428,4,Married,No,High
+32,Female,High School,1324,10,Married,Yes,Low
+42,Female,High School,2846,5,Single,Yes,Medium
+38,Female,Bachelor,2070,6,Married,Yes,Medium
+40,Female,Bachelor,1834,7,Single,Yes,Medium
+44,Male,Master,2934,3,Single,No,High
+31,Female,Bachelor,1706,5,Married,Yes,Medium
+28,Male,Bachelor,1214,13,Single,Yes,Low
+24,Male,Bachelor,1110,3,Married,Yes,Low
+26,Female,High School,2624,2,Married,No,Low
+64,Male,High School,1303,6,Married,No,High
+47,Female,Master,3428,13,Married,Yes,High
+21,Male,High School,800,9,Married,No,Low
+21,Male,High School,3387,7,Married,No,High
+39,Female,Bachelor,2347,10,Married,Yes,Medium
+40,Female,Bachelor,2132,1,Married,Yes,Low
+40,Female,Master,1818,12,Married,Yes,Medium
+32,Female,High School,2479,11,Single,No,Medium
+33,Female,High School,2173,7,Married,Yes,Low
+38,Male,High School,2972,15,Married,Yes,High
+35,Male,Bachelor,2279,4,Married,Yes,Medium
+18,Male,High School,2305,15,Married,No,Medium
+32,Female,Bachelor,1945,10,Married,Yes,Low
+26,Female,Master,2160,8,Married,No,Low
+36,Male,Master,2415,9,Single,No,Medium
+64,Female,High School,1002,9,Married,Yes,High
+38,Female,Bachelor,1256,16,Single,Yes,Medium
+31,Male,Bachelor,2720,4,Married,Yes,Medium
+44,Male,Master,2319,6,Married,No,High
+39,Female,PhD,2071,15,Single,Yes,High
+39,Female,High School,2212,7,Single,Yes,Medium
+41,Female,Bachelor,2443,14,Married,Yes,High
+55,Male,High School,1822,18,Single,Yes,High
+23,Female,High School,1655,7,Single,No,Low
+39,Male,High School,2337,13,Married,Yes,High
+25,Male,Bachelor,1515,4,Single,No,Low
+40,Female,Bachelor,2485,13,Married,Yes,Medium
+25,Male,High School,1008,10,Married,Yes,Low
+30,Female,Bachelor,2920,12,Single,No,High
+32,Male,High School,2530,6,Single,Yes,Medium
+44,Female,Bachelor,2379,1,Married,No,Medium
+44,Female,High School,2887,12,Married,Yes,High
+22,Male,High School,3365,0,Married,Yes,Medium
+35,Female,Bachelor,2910,8,Married,Yes,Medium
+27,Male,High School,911,14,Married,No,Low
+22,Female,Bachelor,1304,10,Single,No,Low
+32,Male,High School,1762,19,Single,Yes,Low
+31,Male,Bachelor,2218,15,Single,Yes,Medium
+59,Male,High School,2562,6,Single,Yes,High
+39,Male,Bachelor,1691,10,Married,Yes,Medium
+21,Female,Bachelor,2330,9,Married,No,Medium
+29,Male,High School,1671,2,Single,Yes,Low
+45,Male,Bachelor,1771,5,Married,No,Medium
+55,Male,High School,1215,7,Single,Yes,Low
+19,Male,Bachelor,1553,0,Married,No,Low
+18,Female,High School,1253,10,Married,Yes,Low
+53,Female,Bachelor,1516,8,Married,Yes,Medium
+38,Male,Bachelor,2937,1,Married,No,Medium
+26,Female,Master,1535,12,Single,Yes,Medium
+40,Female,Bachelor,4042,13,Married,No,High
+18,Male,Bachelor,2545,11,Married,No,Low
+35,Female,Bachelor,2329,8,Married,Yes,Medium
+38,Female,Master,1599,12,Married,Yes,Medium
+44,Female,Bachelor,2690,13,Married,Yes,High
+24,Female,High School,1797,11,Married,Yes,Medium
+35,Male,Master,2285,5,Married,Yes,Medium
+25,Female,Bachelor,3992,11,Single,Yes,High
+37,Female,Master,2132,15,Married,Yes,Low
+26,Male,Master,3004,7,Married,Yes,Medium
+30,Female,High School,1707,20,Married,Yes,Medium
+25,Male,Bachelor,2175,7,Single,Yes,Low
+41,Female,High School,3439,10,Married,Yes,High
+43,Female,High School,1761,6,Single,Yes,Medium
+32,Male,High School,3468,11,Married,Yes,High
+35,Male,Bachelor,2695,1,Married,Yes,Medium
+20,Female,High School,1806,7,Married,Yes,Medium
+32,Male,High School,2642,4,Married,Yes,Medium
+34,Male,Bachelor,2880,10,Single,No,Medium
+61,Male,High School,2635,14,Single,Yes,High
+23,Male,High School,1100,13,Married,Yes,Low
+49,Male,High School,1691,0,Single,No,Medium
+44,Male,High School,2026,20,Married,No,High
+37,Male,Bachelor,2147,11,Single,Yes,High
+52,Female,High School,2634,6,Married,Yes,High
+38,Female,PhD,2324,10,Married,Yes,Medium
+38,Male,Bachelor,1265,10,Single,Yes,Low
+34,Male,High School,2466,6,Single,No,Medium
+47,Female,High School,2627,10,Married,Yes,Medium
+45,Male,Bachelor,2591,6,Married,No,High
+28,Male,Bachelor,2956,7,Married,Yes,Medium
+21,Male,High School,2783,6,Married,No,Medium
+32,Female,High School,2521,2,Married,Yes,Low
+26,Female,Master,2150,10,Single,Yes,Medium
+34,Female,High School,1037,12,Married,Yes,Low
+47,Female,High School,2500,12,Single,Yes,High
+30,Female,Master,2345,14,Single,Yes,Medium
+34,Male,Bachelor,2390,11,Married,No,Medium
+35,Female,High School,1306,7,Single,Yes,Low
+43,Male,Bachelor,1443,14,Single,No,Medium
+18,Female,High School,2937,3,Single,Yes,Low
+28,Female,Bachelor,2172,5,Married,Yes,Low
+37,Female,Bachelor,2677,5,Married,No,Medium
+47,Male,Master,2219,15,Married,Yes,High
+30,Male,PhD,2220,14,Married,Yes,High
+18,Female,Master,2856,12,Married,Yes,Medium
+41,Female,Master,1838,15,Single,Yes,Medium
+28,Female,Bachelor,2267,5,Married,No,Low
+23,Male,High School,1876,11,Single,Yes,Low
+28,Female,Bachelor,1895,9,Single,Yes,Low
+33,Female,Bachelor,1983,14,Single,No,Medium
+28,Female,Master,2355,9,Married,Yes,Low
+18,Female,High School,1864,8,Single,Yes,Low
+43,Female,Master,3079,12,Single,No,High
+47,Female,Master,1573,14,Single,Yes,Low
+41,Female,PhD,2069,6,Single,No,Low
+23,Female,Master,1892,9,Married,Yes,Low
+32,Male,High School,3212,4,Married,No,High
+34,Male,High School,2337,0,Married,No,High
+40,Female,High School,2922,11,Single,Yes,High
+41,Female,High School,1160,13,Single,Yes,Low
+27,Female,Bachelor,2386,11,Married,Yes,Medium
+35,Male,Master,2822,0,Single,No,Medium
+39,Male,Master,2257,8,Married,Yes,Medium
+49,Female,Bachelor,2945,0,Single,Yes,Medium
+42,Female,High School,1837,16,Married,Yes,Medium
+42,Male,High School,3186,4,Single,No,High
+35,Male,High School,3809,16,Married,Yes,High
+49,Female,High School,1946,14,Married,Yes,High
+39,Male,Bachelor,1888,5,Married,Yes,Medium
+26,Female,High School,3217,4,Single,Yes,High
+49,Male,High School,3305,11,Married,Yes,High
+41,Female,High School,1833,5,Married,Yes,Low
+30,Female,Bachelor,1905,10,Single,No,Medium
+30,Female,Bachelor,2002,7,Single,No,Medium
+37,Male,Bachelor,1258,1,Married,Yes,Low
+39,Female,Bachelor,1556,0,Single,Yes,Low
+36,Male,PhD,1497,11,Married,Yes,Low
+38,Male,High School,1662,7,Single,Yes,Low
+51,Female,Bachelor,2175,7,Married,Yes,High
+45,Female,Bachelor,2363,13,Single,Yes,High
+36,Female,Bachelor,3285,15,Married,Yes,High
+44,Male,Master,1501,8,Single,No,Low
+24,Male,High School,2889,8,Single,No,Medium
+38,Male,Bachelor,2050,12,Single,Yes,High
+53,Female,High School,2165,3,Married,Yes,Medium
+32,Female,Bachelor,2672,11,Single,No,High
+26,Female,High School,1414,12,Married,No,Low
+28,Female,High School,2467,13,Single,Yes,Medium
+24,Male,Bachelor,2316,0,Single,Yes,Low
+27,Male,Bachelor,2544,6,Married,Yes,Low
+31,Male,High School,2402,5,Married,Yes,Low
+20,Male,Bachelor,3918,10,Married,Yes,High
+35,Male,Bachelor,1753,12,Married,Yes,Medium
+44,Female,High School,1828,17,Married,Yes,High
+25,Male,Bachelor,1763,7,Married,Yes,Low
+50,Female,Bachelor,1811,7,Married,Yes,Medium
+40,Male,Bachelor,1753,15,Single,No,High
+45,Female,High School,3032,11,Married,Yes,High
+28,Female,High School,3194,16,Married,Yes,High
+43,Female,Bachelor,1800,11,Married,Yes,Low
+24,Male,Master,1617,4,Single,Yes,Low
+43,Female,Bachelor,2529,3,Single,Yes,Medium
+36,Female,High School,1813,2,Married,Yes,Medium
+40,Male,Bachelor,2643,13,Single,Yes,Medium
+23,Male,Master,2342,15,Married,Yes,Medium
+26,Male,High School,1138,19,Single,Yes,Low
+40,Female,PhD,3283,14,Married,No,High
+25,Female,Master,3457,15,Single,Yes,High
+39,Female,High School,1771,7,Married,Yes,Medium
+21,Male,Master,1928,4,Single,Yes,Low
+43,Male,High School,2400,14,Married,Yes,Medium
+22,Female,Master,2434,12,Married,Yes,Medium
+40,Male,Bachelor,2660,10,Single,Yes,High
+41,Female,Bachelor,3607,11,Married,No,High
+28,Female,Bachelor,2076,11,Single,No,Low
+40,Male,Bachelor,1641,16,Single,Yes,Medium
+37,Female,High School,1234,16,Married,No,Low
+29,Male,Bachelor,1688,12,Married,Yes,Low
+24,Female,High School,2176,14,Single,No,Medium
+18,Male,High School,3456,12,Single,Yes,High
+38,Female,High School,1837,7,Single,Yes,Medium
+19,Male,Bachelor,2356,13,Married,Yes,Low
+35,Male,High School,2188,3,Single,Yes,Medium
+32,Female,High School,3031,15,Married,No,Medium
+41,Male,High School,3968,4,Married,No,High
+31,Female,High School,1828,11,Single,Yes,Low
+31,Male,Bachelor,1857,5,Single,No,Low
+42,Female,PhD,2930,12,Married,No,Medium
+38,Male,High School,2677,9,Single,Yes,High
+38,Female,Master,3492,2,Single,Yes,Medium
+39,Male,Bachelor,2608,12,Single,Yes,High
+19,Male,Bachelor,1948,7,Married,Yes,Medium
+42,Male,Bachelor,2613,14,Married,Yes,Medium
+41,Female,Master,2976,10,Single,Yes,High
+24,Male,High School,2774,11,Single,Yes,Low
+32,Female,Bachelor,2555,5,Married,Yes,Medium
+34,Female,Bachelor,2946,7,Married,No,High
+33,Male,Bachelor,3018,7,Married,Yes,High
+38,Female,Master,3167,14,Married,Yes,High
+49,Male,High School,2654,18,Married,Yes,High
+45,Male,Bachelor,2083,5,Married,Yes,High
+21,Female,Bachelor,2302,15,Single,Yes,High
+41,Female,High School,3044,0,Single,Yes,Medium
+48,Female,High School,1628,4,Married,Yes,Low
+38,Male,Bachelor,2458,5,Married,Yes,Medium
+45,Male,Master,1924,3,Married,Yes,Low
+55,Male,Bachelor,2220,2,Single,Yes,High
+45,Female,Master,3094,12,Married,Yes,High
+37,Female,Bachelor,2333,8,Married,Yes,Medium
+45,Female,High School,2232,11,Single,Yes,High
+36,Male,High School,1248,13,Married,Yes,Low
+35,Male,High School,2722,11,Married,No,Medium
+31,Male,High School,2651,13,Married,Yes,High
+50,Male,High School,3714,9,Married,No,High
+26,Male,Bachelor,1984,4,Married,No,Low
+50,Female,Bachelor,2353,15,Married,Yes,High
+39,Female,High School,2374,7,Single,Yes,Medium
+21,Female,High School,3304,5,Single,Yes,Medium
+38,Male,High School,2133,9,Married,Yes,Medium
+18,Male,Bachelor,2395,5,Married,Yes,Low
+41,Female,High School,2625,7,Married,Yes,Medium
+43,Male,High School,2330,11,Married,Yes,Medium
+29,Female,Master,1887,11,Single,Yes,Low
+36,Male,Master,2335,5,Married,No,Medium
+54,Male,High School,2951,7,Single,Yes,High
+29,Female,Bachelor,1481,15,Married,No,Medium
+24,Male,High School,2293,12,Married,No,Medium
+49,Female,Bachelor,1709,20,Married,No,Medium
+54,Female,Bachelor,3036,15,Single,No,High
+35,Male,High School,1133,15,Single,Yes,Low
+45,Male,Bachelor,1808,3,Married,Yes,Medium
+48,Female,High School,2464,13,Married,Yes,High
+27,Female,High School,3295,9,Married,Yes,Medium
+30,Male,High School,2153,7,Single,No,Medium
+47,Female,Bachelor,1811,10,Married,No,Medium
+51,Male,High School,3516,14,Married,Yes,High
+40,Male,High School,1186,12,Single,Yes,Medium
+26,Male,High School,800,5,Married,Yes,Low
+54,Male,High School,2508,13,Single,Yes,High
+29,Male,Bachelor,1848,6,Married,Yes,Medium
+31,Female,High School,1485,11,Married,Yes,Low
+38,Male,High School,2695,8,Married,No,High
+50,Male,Bachelor,2370,8,Married,Yes,High
+43,Male,Bachelor,1805,13,Married,No,Medium
+39,Female,Master,1303,4,Single,Yes,Low
+39,Female,Bachelor,2810,19,Married,No,High
+35,Male,High School,2655,0,Married,Yes,High
+40,Male,Bachelor,2130,7,Single,No,Medium
+18,Male,Bachelor,3492,11,Single,Yes,High
+32,Male,High School,1450,12,Married,Yes,Low
+37,Male,Master,1132,9,Single,Yes,Medium
+23,Male,High School,1715,9,Single,No,Low
+38,Male,PhD,2168,12,Married,Yes,Medium
+32,Female,Master,2370,8,Single,Yes,Medium
+52,Male,Bachelor,2031,16,Married,Yes,High
+50,Female,Master,2446,14,Single,Yes,High
+30,Female,Bachelor,1323,14,Married,No,Medium
+33,Female,High School,3210,5,Married,Yes,High
+34,Male,Bachelor,2142,9,Married,Yes,Medium
+30,Male,High School,2982,8,Single,No,High
+36,Male,High School,2439,4,Married,No,High
+27,Female,Bachelor,2519,11,Married,No,Medium
+23,Male,High School,2598,7,Married,Yes,Medium
+41,Female,High School,2513,13,Single,Yes,High
+41,Female,Bachelor,2649,4,Single,Yes,High
+26,Male,Master,3130,18,Married,No,High
+43,Female,High School,2337,5,Single,Yes,Medium
+28,Male,High School,2696,11,Married,Yes,Medium
+37,Male,High School,2137,13,Single,Yes,Medium
+43,Male,Bachelor,3208,7,Married,Yes,High
+34,Male,High School,1726,14,Married,No,Medium
+39,Female,Bachelor,3460,3,Married,Yes,High
+29,Male,High School,2171,17,Married,Yes,Medium
+33,Male,High School,1198,10,Married,No,Low
+32,Female,Master,2289,7,Married,Yes,Low
+27,Female,High School,1723,8,Married,Yes,Low
+33,Male,Bachelor,2788,14,Married,No,High
+19,Female,High School,1743,7,Married,No,Low
+30,Female,Bachelor,1887,6,Single,Yes,Low
+32,Male,Bachelor,877,8,Married,Yes,Low
+32,Male,High School,1883,4,Single,Yes,Low
+32,Male,High School,800,19,Married,No,Medium
+34,Female,High School,1091,7,Married,No,Low
+39,Female,Bachelor,2732,14,Married,Yes,High
+43,Female,Bachelor,2750,11,Married,Yes,High
+28,Male,Bachelor,2497,5,Married,Yes,Low
+22,Male,Bachelor,1523,9,Single,Yes,Low
+24,Male,High School,2166,13,Married,Yes,Medium
+30,Male,High School,2197,9,Single,No,Medium
+31,Female,High School,1389,15,Married,Yes,Medium
+27,Female,High School,3252,15,Single,Yes,High
+22,Male,High School,2814,14,Single,Yes,High
+30,Male,Bachelor,2045,7,Married,Yes,Medium
+36,Male,Bachelor,2218,4,Single,Yes,Medium
+40,Male,Master,2345,6,Married,Yes,Medium
+29,Male,High School,800,10,Single,Yes,Low
+30,Male,Bachelor,2026,12,Married,Yes,Low
+25,Male,Master,1722,0,Married,Yes,Low
+34,Male,Bachelor,1498,9,Single,No,Medium
+26,Male,High School,2003,10,Single,Yes,Medium
+40,Male,High School,3458,8,Married,Yes,High
+18,Female,High School,2648,16,Single,No,Low
+31,Male,High School,1800,12,Married,Yes,Medium
+38,Female,Bachelor,2600,16,Single,No,Medium
+36,Male,High School,3179,8,Single,Yes,High
+61,Male,High School,2847,14,Married,No,High
+38,Male,Bachelor,2241,18,Single,No,High
+24,Male,Bachelor,1747,16,Married,No,Medium
+34,Female,Bachelor,2688,4,Single,Yes,High
+18,Male,Bachelor,2475,8,Single,Yes,Low
+34,Female,High School,2826,8,Married,Yes,High
+26,Female,High School,2644,12,Married,Yes,Medium
+44,Female,High School,2934,13,Married,No,Medium
+29,Female,Bachelor,1825,5,Single,Yes,Low
+33,Female,Master,3122,10,Married,Yes,High
+28,Male,High School,2338,0,Married,Yes,Medium
+52,Female,Bachelor,3652,17,Single,Yes,High
+31,Male,High School,1717,7,Married,No,Low
+53,Male,Bachelor,3415,10,Married,No,High
+43,Male,High School,2338,8,Single,Yes,High
+39,Female,High School,1744,15,Married,Yes,Medium
+38,Female,Master,1861,0,Married,Yes,Low
+38,Male,Bachelor,1975,9,Single,Yes,Medium
+18,Female,Bachelor,2496,9,Married,No,Medium
+32,Male,High School,2565,7,Single,No,Medium
+43,Male,High School,1798,18,Married,Yes,High
+34,Male,High School,2182,5,Married,Yes,Medium
+20,Male,Master,3699,13,Married,Yes,High
+34,Male,PhD,3409,11,Married,Yes,High
+52,Female,Bachelor,2505,16,Single,Yes,High
+47,Female,High School,2226,6,Married,Yes,Medium
+34,Male,Master,2284,6,Married,Yes,Low
+44,Male,Bachelor,2629,15,Married,Yes,High
+31,Female,Bachelor,1484,12,Married,Yes,Low
+18,Female,High School,2019,2,Single,No,Low
+25,Male,Bachelor,1031,7,Single,No,Low
+50,Male,Bachelor,2479,11,Single,Yes,High
+32,Female,Master,2653,14,Married,Yes,Medium
+32,Female,Bachelor,1861,6,Single,Yes,Low
+32,Male,High School,3301,0,Married,Yes,High
+54,Male,Bachelor,1341,12,Married,Yes,High
+51,Female,Master,1174,3,Single,No,Low
+57,Male,High School,2357,0,Married,Yes,High
+33,Female,High School,2932,0,Married,Yes,Medium
+37,Male,High School,3378,14,Married,Yes,High
+19,Female,Bachelor,1878,10,Single,No,Low
+49,Male,High School,2955,8,Single,No,High
+23,Male,Bachelor,2173,16,Single,Yes,Medium
+37,Female,High School,2079,13,Single,Yes,Medium
+24,Male,Master,2818,18,Married,Yes,High
+29,Female,High School,2656,3,Married,Yes,Low
+26,Male,High School,1096,9,Single,Yes,Low
+28,Male,Bachelor,3233,1,Married,Yes,Medium
+29,Male,Bachelor,3166,8,Married,Yes,Medium
+29,Female,High School,1762,8,Single,Yes,Low
+43,Male,High School,2477,13,Single,Yes,High
+23,Male,High School,2545,10,Married,No,Medium
+37,Male,Bachelor,2382,13,Married,Yes,High
+47,Female,Bachelor,1814,13,Married,Yes,High
+29,Female,Bachelor,1729,20,Single,Yes,Medium
+27,Male,Bachelor,2182,8,Single,Yes,Low
+32,Male,Bachelor,3020,5,Single,Yes,Medium
+46,Female,High School,2580,11,Married,Yes,Medium
+36,Male,PhD,1940,5,Married,Yes,Low
+29,Female,Master,2740,17,Single,Yes,High
+39,Female,High School,800,8,Married,Yes,Low
+23,Female,High School,3004,7,Married,Yes,Medium
+41,Male,High School,982,7,Married,No,Low
+39,Female,High School,1946,13,Married,Yes,Medium
+31,Female,Bachelor,1416,9,Single,Yes,Low
+26,Female,Bachelor,1293,6,Married,Yes,Low
+26,Male,Bachelor,3012,18,Single,No,High
+40,Male,Bachelor,1872,5,Single,Yes,Low
+47,Male,Bachelor,2442,10,Married,No,High
+28,Female,Bachelor,2167,13,Married,No,Medium
+39,Female,High School,2533,1,Married,Yes,Medium
+18,Male,High School,2253,12,Married,Yes,Medium
+29,Male,Bachelor,1301,4,Married,Yes,Low
+34,Male,High School,2897,14,Married,No,High
+25,Female,High School,1854,5,Single,Yes,Low
+25,Female,Master,1110,13,Married,Yes,Low
+28,Male,Bachelor,1900,15,Married,Yes,Medium
+37,Male,High School,3250,14,Married,Yes,High
+33,Male,Bachelor,2795,11,Married,Yes,High
+18,Female,Bachelor,1955,8,Married,Yes,Low
+18,Female,High School,1955,7,Married,Yes,Low
+28,Female,High School,1974,17,Married,Yes,Low
+39,Male,Master,3653,6,Married,Yes,High
+18,Female,High School,2467,4,Single,No,Low
+30,Male,High School,2501,13,Married,Yes,Medium
+29,Female,Bachelor,2921,6,Married,No,Low
+48,Male,Bachelor,2367,5,Married,Yes,High
+31,Female,High School,2018,2,Married,Yes,Low
+38,Female,High School,2062,7,Married,No,Medium
+36,Female,High School,2149,9,Married,Yes,Medium
+18,Female,PhD,2173,11,Married,No,Low
+42,Male,High School,2709,14,Single,No,High
+37,Male,Bachelor,2236,12,Married,Yes,High
+40,Female,Master,2712,9,Married,Yes,High
+70,Male,High School,2143,9,Single,Yes,High
+18,Male,PhD,2255,12,Married,Yes,Low
+52,Male,Master,801,16,Married,Yes,Low
+32,Female,Master,2841,10,Married,Yes,High
+37,Male,High School,2442,7,Single,Yes,High
+34,Male,Bachelor,2898,5,Single,Yes,High
+30,Male,Bachelor,800,2,Married,No,Low
+29,Male,PhD,3661,13,Single,No,High
+38,Female,High School,2102,12,Married,Yes,Medium
+19,Female,Bachelor,2975,12,Single,No,Medium
+42,Female,High School,1472,9,Married,Yes,Medium
+30,Male,High School,2628,17,Single,Yes,Medium
+23,Female,Bachelor,1462,7,Single,Yes,Low
+30,Female,Bachelor,1763,14,Married,Yes,Medium
+47,Male,Bachelor,3539,9,Single,Yes,High
+29,Female,Bachelor,2066,6,Married,No,Low
+38,Female,PhD,2352,12,Married,No,High
+27,Female,High School,2809,12,Married,Yes,High
+42,Female,Bachelor,2546,11,Married,No,High
+41,Male,High School,2305,10,Single,Yes,High
+53,Male,High School,2455,9,Single,Yes,High
+33,Female,Bachelor,3882,21,Married,No,High
+41,Male,Master,2159,15,Married,Yes,Medium
+35,Male,Bachelor,2340,13,Married,Yes,Medium
+47,Female,Bachelor,2935,10,Married,Yes,High
+27,Female,High School,2973,15,Married,Yes,Medium
+42,Male,High School,3030,12,Single,Yes,High
+33,Female,Bachelor,2647,10,Married,Yes,High
+34,Female,High School,1399,8,Married,Yes,Low
+35,Female,High School,3343,9,Married,Yes,High
+37,Male,Bachelor,1397,0,Married,Yes,Low
+33,Male,High School,2411,11,Single,Yes,Medium
+37,Male,High School,1672,7,Single,No,Low
+50,Male,Bachelor,2155,17,Married,Yes,High
+44,Male,Bachelor,2430,10,Married,Yes,High
+43,Male,Master,2424,4,Married,Yes,High
+30,Male,Bachelor,2495,9,Single,Yes,Medium
+26,Female,Bachelor,3329,4,Single,Yes,Medium
+44,Male,Master,2517,12,Married,Yes,High
+43,Female,Bachelor,2029,11,Single,No,Medium
+49,Female,High School,2874,14,Married,Yes,High
+28,Male,High School,3032,6,Married,Yes,High
+32,Female,Bachelor,1340,10,Married,Yes,Low
+18,Female,Bachelor,2618,3,Single,Yes,Low
+31,Male,Bachelor,2690,13,Married,Yes,High
+44,Female,Bachelor,1991,12,Single,Yes,Medium
+30,Male,Bachelor,3162,12,Single,No,High
+41,Female,PhD,2094,10,Single,Yes,Medium
+33,Male,Bachelor,2287,12,Single,No,Medium
+38,Female,High School,2078,18,Married,Yes,High
+23,Male,Master,2210,8,Single,Yes,Low
+35,Female,High School,1432,10,Single,Yes,Medium
+18,Male,Bachelor,1191,4,Married,Yes,Low
+33,Female,PhD,3316,5,Single,No,Medium
+18,Female,Bachelor,1607,10,Married,Yes,Low
+47,Male,Bachelor,1506,15,Single,Yes,Medium
+42,Female,Bachelor,800,8,Single,No,Low
+39,Male,High School,1752,8,Married,No,Medium
+50,Female,High School,1273,7,Single,No,High
+25,Male,Bachelor,3349,7,Married,No,High
+52,Female,Bachelor,2906,11,Single,Yes,High
+44,Female,Bachelor,1718,2,Single,No,Medium
+32,Male,High School,3776,16,Single,Yes,High
+46,Male,Bachelor,2887,6,Single,No,High
+23,Male,Bachelor,1972,13,Single,No,Low
+26,Female,Bachelor,800,3,Married,Yes,Low
+28,Male,Bachelor,3803,13,Married,No,High
+29,Female,Bachelor,1227,13,Single,Yes,Low
+24,Female,Bachelor,1048,11,Married,Yes,Low
+47,Male,Bachelor,2915,5,Married,Yes,High
+32,Female,Master,3907,11,Married,No,High
+38,Male,High School,3168,4,Married,Yes,Medium
+29,Male,PhD,2594,8,Married,Yes,Medium
+18,Female,High School,2616,15,Single,Yes,Low
+37,Male,High School,2797,13,Single,No,High
+18,Male,Master,2731,10,Married,Yes,Medium
+34,Female,High School,2396,5,Married,No,Medium
+21,Male,Bachelor,2272,13,Married,No,Low
+54,Female,Master,2156,10,Married,Yes,High
+44,Female,Master,1672,0,Married,Yes,Low
+36,Male,PhD,2003,13,Married,No,Medium
+47,Male,High School,1014,9,Married,No,Low
+26,Female,Bachelor,2131,16,Married,No,Low
+40,Male,High School,1507,4,Single,Yes,Low
+36,Male,Bachelor,1427,0,Single,No,Low
+37,Female,Master,2325,11,Single,Yes,Medium
+47,Male,High School,3174,11,Married,Yes,High
+42,Female,Bachelor,2842,1,Single,No,Medium
+37,Male,Bachelor,1100,5,Married,Yes,Low
+18,Male,Bachelor,1507,23,Single,No,Low
+25,Male,PhD,2858,8,Married,Yes,Medium
+33,Female,High School,1512,13,Single,No,Medium
+35,Female,Bachelor,2042,6,Single,Yes,Low
+23,Female,Master,2585,0,Married,Yes,Medium
+59,Male,Bachelor,1522,9,Married,No,Medium
+50,Male,High School,2273,8,Married,Yes,High
+41,Male,Bachelor,1266,8,Married,Yes,Medium
+35,Male,High School,1779,9,Single,No,Low
+32,Female,High School,2423,11,Single,Yes,Medium
+25,Female,Master,1084,9,Married,No,Low
+35,Male,Bachelor,2508,3,Married,Yes,Low
+37,Female,Master,2186,12,Married,Yes,Medium
+22,Male,Master,2586,0,Married,No,Low
+38,Female,Bachelor,2356,0,Married,Yes,Low
+33,Male,High School,3154,13,Single,Yes,Medium
+18,Male,Bachelor,2287,12,Married,Yes,Medium
+26,Male,High School,1899,9,Married,No,Medium
+30,Male,Master,2285,3,Married,Yes,Medium
+53,Female,High School,2580,6,Single,Yes,High
+40,Male,High School,2234,8,Single,Yes,Medium
+21,Male,Bachelor,2228,2,Single,Yes,Low
+39,Female,High School,1708,6,Single,Yes,Low
+19,Female,High School,1735,13,Married,Yes,Low
+45,Female,Bachelor,1218,17,Single,Yes,Medium
+30,Male,High School,3424,7,Single,Yes,High
+34,Female,High School,1329,13,Single,Yes,Medium
+48,Female,High School,1714,0,Married,Yes,Medium
+22,Male,Bachelor,1697,13,Married,Yes,Low
+21,Male,Bachelor,2826,5,Single,No,Low
+29,Male,Bachelor,1993,11,Single,Yes,Medium
+45,Male,Bachelor,3073,8,Single,Yes,High
+19,Male,High School,1728,16,Married,Yes,Medium
+18,Male,Master,2395,5,Single,Yes,Medium
+30,Female,High School,1615,13,Married,No,Medium
+40,Female,Bachelor,3701,8,Married,No,High
+47,Female,Master,1368,9,Single,Yes,Low
+30,Female,Master,2416,9,Married,Yes,Low
+30,Male,High School,2643,5,Single,Yes,Medium
+46,Female,High School,2489,9,Married,Yes,High
+18,Female,Bachelor,2070,9,Single,No,Medium
+31,Male,High School,2109,11,Married,Yes,Medium
+36,Female,Master,2230,10,Married,Yes,High
+39,Female,Bachelor,2097,13,Married,Yes,Medium
+29,Female,Bachelor,2874,14,Single,No,High
+35,Female,High School,3747,4,Single,Yes,High
+18,Male,Bachelor,1809,14,Married,No,Low
+28,Male,Bachelor,1241,4,Married,Yes,Low
+39,Male,Master,2138,12,Married,Yes,High
+25,Female,High School,4005,13,Single,No,High
+35,Female,High School,1637,0,Single,Yes,Low
+39,Female,High School,3347,10,Married,Yes,Medium
+31,Male,High School,3374,7,Single,Yes,High
+36,Male,Bachelor,1812,6,Single,Yes,Low
+25,Female,Master,2598,16,Single,Yes,Medium
+32,Female,High School,3339,6,Married,No,High
+41,Male,Master,1934,5,Married,Yes,Medium
+36,Male,High School,2057,10,Married,No,Medium
+29,Female,High School,1792,13,Single,Yes,Low
+37,Female,High School,1489,9,Married,Yes,Low
+42,Male,High School,1745,15,Married,Yes,Medium
+18,Male,Master,1343,12,Single,No,Low
+46,Female,High School,2223,0,Married,No,Medium
+31,Female,Bachelor,1661,7,Married,No,Low
+39,Male,Bachelor,2363,7,Single,Yes,Medium
+46,Male,Master,1110,12,Married,Yes,Low
+21,Female,High School,2431,0,Single,Yes,Low
+27,Male,High School,2783,22,Married,No,High
+32,Male,High School,804,12,Single,Yes,Low
+27,Female,Bachelor,2461,10,Single,Yes,Medium
+52,Male,High School,3059,15,Single,Yes,High
+26,Female,Master,1353,21,Married,Yes,Low
+29,Male,Bachelor,3370,14,Married,Yes,High
+37,Female,Bachelor,2493,14,Married,No,Medium
+22,Male,Bachelor,1706,10,Married,Yes,Low
+31,Male,High School,2160,9,Married,No,Medium
+38,Male,Bachelor,2590,7,Single,No,Low
+31,Female,PhD,2253,5,Married,Yes,Low
+34,Female,Master,2577,6,Single,Yes,High
+29,Male,Master,1555,3,Single,Yes,Low
+19,Female,Master,2318,9,Married,No,Low
+38,Female,High School,1210,1,Single,Yes,Low
+52,Female,High School,2122,10,Single,Yes,Medium
+35,Male,High School,1567,9,Married,Yes,Low
+37,Female,High School,1685,10,Married,Yes,Medium
+41,Male,High School,3065,7,Married,Yes,High
+22,Male,Bachelor,2963,25,Married,Yes,High
+52,Female,Bachelor,2626,16,Married,No,High
+37,Female,Master,1435,3,Married,No,Low
+51,Male,Bachelor,1978,11,Single,Yes,Medium
+27,Male,Master,3049,6,Single,Yes,Medium
+53,Female,High School,2299,4,Married,No,High
+42,Female,High School,3823,3,Single,Yes,High
+40,Male,Bachelor,2475,12,Married,No,High
+37,Female,High School,2334,6,Married,Yes,Medium
+32,Male,High School,1983,14,Single,Yes,Medium
+47,Male,High School,2293,14,Single,Yes,High
+36,Female,High School,2093,16,Single,Yes,Medium
+18,Male,Bachelor,2695,5,Single,No,Low
+23,Male,Bachelor,2869,12,Single,Yes,Medium
+33,Female,Bachelor,1649,13,Married,Yes,Medium
+38,Female,Bachelor,1268,7,Married,Yes,Low
+34,Male,High School,914,6,Married,No,Low
+47,Female,High School,2555,18,Single,Yes,High
+18,Female,High School,1427,11,Single,No,Low
+36,Male,High School,800,13,Married,Yes,Medium
+18,Female,Bachelor,2472,5,Married,Yes,Low
+42,Male,Bachelor,3945,3,Married,No,High
+34,Male,Bachelor,2195,7,Married,Yes,Medium
+39,Female,High School,2786,9,Married,Yes,High
+26,Female,Bachelor,2257,4,Married,Yes,Low
+47,Male,Bachelor,2130,9,Single,Yes,Medium
+45,Male,Bachelor,2843,1,Married,Yes,Medium
+40,Male,Bachelor,1996,4,Single,Yes,Medium
+33,Male,Bachelor,2387,13,Married,Yes,High
+40,Male,Bachelor,2425,13,Married,Yes,High
+27,Male,Bachelor,1732,8,Single,Yes,Medium
+43,Female,High School,2894,4,Single,Yes,Medium
+51,Male,Bachelor,2077,4,Single,No,Medium
+45,Male,High School,1670,8,Single,No,Medium
+27,Female,High School,2575,13,Single,Yes,High
+38,Female,PhD,1571,14,Single,Yes,Medium
+22,Male,PhD,2219,7,Single,No,Low
+40,Male,High School,2193,4,Single,Yes,Medium
+39,Female,Bachelor,2960,11,Married,Yes,High
+18,Male,High School,2532,5,Single,No,Medium
+23,Male,Bachelor,2182,7,Single,Yes,Low
+32,Female,Master,2772,16,Married,Yes,High
+31,Male,PhD,3173,14,Married,No,Medium
+22,Male,Bachelor,2590,10,Married,Yes,Medium
+38,Male,High School,2207,3,Single,Yes,Medium
+37,Male,Bachelor,1281,11,Married,Yes,Low
+33,Male,High School,1454,15,Married,Yes,Low
+27,Female,Master,1986,8,Married,No,Low
+45,Male,Master,1773,16,Married,Yes,High
+51,Male,Bachelor,2069,16,Married,Yes,High
+30,Male,High School,2239,18,Married,No,Medium
+28,Female,High School,2570,11,Married,Yes,Medium
+39,Female,High School,2150,12,Married,Yes,High
+31,Male,Master,2540,17,Married,Yes,High
+33,Female,Bachelor,2245,12,Married,Yes,Medium
+42,Male,High School,817,7,Single,Yes,Low
+18,Male,Bachelor,1542,7,Married,No,Low
+48,Male,Master,2099,11,Single,No,Medium
+35,Male,High School,1353,3,Married,Yes,Low
+30,Male,Master,2619,9,Married,Yes,Low
+34,Female,Master,3271,15,Single,Yes,High
+34,Male,Master,3053,0,Married,Yes,High
+18,Female,High School,2050,17,Single,Yes,Low
+49,Male,High School,3243,15,Single,No,High
+35,Male,High School,2304,7,Single,Yes,Medium
+39,Male,High School,1964,12,Single,Yes,Medium
+44,Female,High School,1770,10,Single,Yes,Medium
+24,Male,Bachelor,1988,16,Married,Yes,Medium
+39,Female,Bachelor,1928,14,Married,Yes,High
+32,Male,Master,2319,2,Single,Yes,Medium
+43,Male,High School,2312,12,Married,Yes,Medium
+18,Male,Bachelor,2202,8,Single,Yes,Low
+34,Male,Bachelor,2505,10,Single,Yes,Medium
+28,Male,Bachelor,3033,6,Single,Yes,Medium
+39,Male,Master,2864,18,Married,Yes,High
+39,Female,Bachelor,1160,15,Married,No,Low
+27,Male,Master,800,6,Single,Yes,Low
+27,Female,High School,2854,3,Single,Yes,Medium
+33,Male,Bachelor,1243,8,Single,Yes,Low
+26,Female,High School,2042,12,Married,No,Low
+43,Female,High School,1380,11,Married,Yes,Low
+31,Male,High School,938,16,Single,Yes,Low
+18,Male,High School,2579,13,Married,Yes,Low
+31,Female,High School,2731,14,Single,Yes,High
+24,Female,High School,1796,11,Married,Yes,Low
+18,Male,High School,800,3,Married,Yes,Low
+22,Male,Master,1817,9,Married,No,Low
+36,Female,High School,2474,15,Married,Yes,High
+48,Male,Bachelor,1164,9,Married,Yes,Low
+38,Female,High School,2328,12,Single,Yes,High
+28,Male,Master,2189,8,Single,Yes,Medium
+39,Male,Master,2605,4,Married,Yes,Medium
+30,Female,Bachelor,2283,9,Single,No,Medium
+28,Female,Bachelor,1518,11,Single,No,Low
+23,Male,High School,3037,6,Married,Yes,High
+18,Male,PhD,2089,8,Married,Yes,Low
+31,Female,Master,2180,5,Married,Yes,Low
+36,Female,Master,1546,15,Married,Yes,Medium
+34,Male,Bachelor,1889,8,Married,Yes,Low
+30,Female,High School,1580,17,Single,No,High
+25,Female,Master,2078,17,Married,No,Low
+41,Female,High School,3398,9,Married,Yes,High
+21,Female,Bachelor,1239,4,Single,Yes,Low
+42,Male,High School,1070,0,Single,Yes,Low
+24,Female,Master,3229,2,Single,Yes,Medium
+27,Female,High School,2053,3,Married,Yes,Low
+20,Male,High School,1731,16,Married,Yes,Medium
+29,Male,Bachelor,2927,10,Married,Yes,High
+44,Male,Bachelor,1776,11,Married,Yes,High
+40,Female,Bachelor,3478,0,Single,Yes,Medium
+44,Male,High School,2674,4,Married,No,High
+40,Female,High School,1858,14,Married,Yes,Medium
+23,Female,Bachelor,3710,11,Single,Yes,High
+31,Female,PhD,1775,9,Married,Yes,Medium
+27,Female,Master,2719,12,Single,Yes,Medium
+48,Female,Bachelor,2409,18,Married,Yes,High
+23,Male,Master,3111,8,Married,Yes,High
+43,Female,Bachelor,3293,10,Married,Yes,High
+43,Male,Bachelor,2222,10,Married,Yes,Medium
+53,Female,Bachelor,1672,21,Single,No,High
+30,Male,Bachelor,2521,0,Married,Yes,Low
+42,Female,Bachelor,1725,13,Single,Yes,Medium
+57,Female,Bachelor,3609,9,Married,Yes,High
+28,Female,High School,2295,12,Married,Yes,Medium
+19,Male,High School,1944,6,Married,No,Low
+18,Male,High School,2329,9,Single,Yes,Medium
+42,Female,Bachelor,1257,13,Married,Yes,Low
+18,Male,High School,1519,25,Married,Yes,Medium
+31,Female,High School,3040,14,Married,Yes,High
+39,Male,Bachelor,1740,5,Single,No,Low
+36,Female,Bachelor,1467,7,Single,Yes,Low
+39,Male,Bachelor,2575,7,Single,Yes,Medium
+37,Female,Bachelor,3029,1,Married,No,Medium
+47,Female,Master,2703,8,Married,No,High
+25,Male,Master,2897,13,Married,Yes,High
+28,Male,Master,1670,3,Single,Yes,Low
+27,Male,Bachelor,1204,15,Single,Yes,Low
+43,Female,High School,3250,12,Married,Yes,High
+44,Female,PhD,1974,6,Married,No,Medium
+39,Female,High School,2024,9,Married,Yes,Low
+46,Female,High School,3129,17,Married,Yes,High
+23,Male,Bachelor,2589,13,Married,No,Medium
+51,Male,High School,2519,10,Married,Yes,High
+50,Male,PhD,3715,8,Married,Yes,High
+42,Male,Bachelor,1749,10,Married,No,Medium
+52,Female,Bachelor,2849,7,Single,No,High
+18,Female,Bachelor,2239,0,Single,No,Low
+29,Male,Bachelor,2388,20,Single,Yes,High
+27,Female,High School,3269,10,Married,No,Medium
+42,Female,Bachelor,2555,11,Single,Yes,High
+24,Male,Bachelor,2576,9,Single,Yes,Medium
+42,Male,Bachelor,2950,6,Single,No,High
+48,Male,Bachelor,1944,9,Married,Yes,Medium
+41,Female,High School,1612,2,Single,No,Low
+37,Female,High School,1468,21,Married,Yes,Medium
+25,Female,High School,823,3,Single,Yes,Low
+26,Male,High School,3639,4,Single,No,High
+47,Male,Master,1427,7,Married,Yes,Medium
+42,Female,Master,2045,16,Single,Yes,Medium
+34,Female,High School,2006,10,Single,Yes,Low
+30,Female,Bachelor,2415,3,Single,No,Low
+18,Female,Bachelor,2771,16,Married,Yes,Medium
+24,Male,High School,2802,13,Married,Yes,Medium
+54,Female,High School,1791,12,Single,Yes,High
+22,Female,PhD,2083,13,Single,No,Low
+36,Male,Bachelor,2397,21,Married,No,High
+45,Female,PhD,2025,20,Married,No,High
+22,Male,High School,3325,6,Married,Yes,Medium
+36,Male,Bachelor,2543,18,Married,Yes,High
+44,Male,High School,2714,11,Married,Yes,High
+35,Male,High School,2664,12,Married,Yes,High
+63,Male,Bachelor,3021,1,Married,Yes,High
+18,Male,High School,2326,9,Married,No,Low
+45,Female,High School,1292,5,Single,No,Low
+33,Male,High School,2479,14,Married,Yes,High
+42,Male,High School,1744,15,Married,Yes,Medium
+39,Male,Bachelor,1829,0,Single,No,Low
+27,Female,Bachelor,2610,9,Married,Yes,Medium
+37,Male,High School,3066,15,Married,Yes,High
+18,Male,High School,2214,9,Married,Yes,Low
+41,Female,High School,2416,13,Married,Yes,Medium
+37,Female,Bachelor,3391,11,Married,No,High
+41,Female,High School,2368,11,Single,Yes,Medium
+45,Male,Bachelor,4021,8,Married,Yes,High
+38,Male,High School,2595,3,Married,Yes,Medium
+36,Female,High School,967,4,Single,No,Low
+26,Male,Master,2727,13,Single,Yes,Medium
+27,Male,Bachelor,2466,10,Married,Yes,High
+46,Male,High School,3102,9,Single,No,High
+49,Female,Master,2671,7,Married,No,Medium
+32,Male,Bachelor,2103,8,Single,No,Medium
+35,Female,Master,1342,15,Single,No,Medium
+25,Female,Bachelor,2053,8,Married,Yes,Low
+46,Male,Bachelor,1604,3,Single,Yes,Low
+41,Female,PhD,1793,13,Married,Yes,Medium
+54,Female,High School,2612,8,Married,Yes,High
+26,Female,Bachelor,3368,10,Single,No,Medium
+31,Male,Bachelor,2476,18,Single,No,Medium
+37,Female,High School,1362,9,Single,No,Low
+41,Male,High School,2511,11,Single,Yes,High
+32,Female,High School,3037,4,Married,No,Medium
+26,Male,Bachelor,1773,8,Married,No,Low
+43,Male,Bachelor,2106,13,Single,Yes,Medium
+42,Female,Bachelor,2210,2,Married,No,Medium
+25,Female,High School,1650,11,Single,Yes,Low
+48,Female,Bachelor,2653,10,Single,Yes,High
+46,Male,Master,2115,10,Single,Yes,Medium
+36,Male,High School,2493,15,Married,Yes,Medium
+35,Female,Bachelor,1578,11,Married,Yes,Low
+40,Female,Bachelor,1893,17,Married,Yes,Medium
+26,Female,Bachelor,2705,5,Single,No,Medium
+35,Male,Bachelor,1939,10,Single,Yes,Low
+18,Male,Master,3408,10,Married,No,High
+43,Female,High School,1920,4,Married,Yes,Low
+19,Female,Master,2357,14,Married,Yes,High
+50,Male,High School,2852,21,Single,Yes,High
+31,Female,High School,1207,9,Single,Yes,Low
+32,Female,High School,967,12,Married,Yes,Low
+28,Male,Bachelor,1132,10,Married,Yes,Low
+32,Male,Bachelor,3083,6,Married,Yes,Medium
+49,Male,High School,1813,0,Married,Yes,Medium
+18,Female,High School,3990,6,Married,No,High
+47,Male,Master,1805,3,Married,Yes,Low
+38,Male,Master,2329,18,Married,Yes,High
+22,Female,Bachelor,3279,9,Married,Yes,High
+24,Male,Bachelor,3604,8,Married,Yes,High
+51,Male,Bachelor,3643,14,Single,Yes,High
+25,Male,High School,3045,4,Single,No,Medium
+23,Female,Master,2916,6,Married,No,Low
+46,Female,High School,2614,10,Married,Yes,High
+38,Male,Bachelor,2744,15,Married,Yes,High
+25,Female,High School,1814,12,Single,Yes,High
+37,Female,Bachelor,1627,11,Single,No,Medium
+24,Male,Bachelor,2197,10,Married,Yes,Low
+46,Male,Bachelor,2080,12,Single,Yes,Medium
+45,Male,High School,1882,11,Single,No,High
+40,Male,Bachelor,2687,4,Single,No,High
+38,Female,High School,2868,10,Married,No,High
+52,Female,High School,2261,4,Single,No,High
+34,Male,High School,3234,10,Married,No,High
+23,Male,Bachelor,1400,7,Married,Yes,Low
+39,Male,Bachelor,2064,22,Married,Yes,High
+55,Female,Bachelor,1698,9,Married,No,High
+24,Male,Bachelor,893,2,Single,Yes,Low
+31,Female,Bachelor,2142,9,Single,No,Medium
+39,Male,Bachelor,2114,12,Single,Yes,High
+34,Female,High School,3259,18,Married,Yes,Medium
+25,Female,High School,2641,7,Single,Yes,Medium
+46,Male,Bachelor,1483,2,Single,Yes,Low
+58,Male,Bachelor,3497,14,Married,Yes,High
+36,Female,Master,3054,3,Single,No,Medium
+25,Male,Master,2607,7,Single,Yes,High
+19,Female,High School,2041,8,Married,No,Low
+37,Male,High School,1528,9,Married,Yes,Medium
+46,Female,Bachelor,1939,13,Single,Yes,High
+39,Male,High School,2962,6,Single,Yes,High
+34,Female,High School,3519,8,Married,Yes,High
+29,Female,Master,3280,9,Single,No,High
+24,Female,High School,1857,10,Married,No,Low
+43,Female,Master,1416,10,Single,No,Low
+44,Female,Bachelor,2298,12,Married,No,Medium
+19,Male,Bachelor,962,14,Single,Yes,Low
+50,Female,High School,2426,11,Married,No,Medium
+40,Female,High School,2096,12,Single,No,Medium
+48,Male,Bachelor,1873,2,Married,No,Medium
+21,Female,High School,1083,10,Single,Yes,Low
+21,Female,High School,2559,12,Single,No,Medium
+33,Female,High School,1827,13,Married,Yes,Low
+40,Male,High School,1381,6,Married,No,Medium
+52,Male,High School,800,6,Married,Yes,Low
+42,Male,Bachelor,2180,7,Married,Yes,Medium
+32,Male,High School,3440,12,Married,Yes,High
+24,Female,High School,3362,15,Married,Yes,High
+47,Male,Bachelor,1880,7,Married,Yes,High
+25,Male,PhD,1778,14,Married,No,Medium
+51,Female,High School,2528,10,Single,Yes,High
+32,Male,High School,1501,9,Married,Yes,Low
+50,Male,Bachelor,2411,8,Married,Yes,High
+41,Male,Master,2736,13,Single,Yes,Medium
+33,Male,Bachelor,3058,11,Married,Yes,High
+29,Female,Bachelor,2129,21,Single,Yes,Medium
+31,Female,High School,2057,5,Married,Yes,Medium
+39,Female,Bachelor,1585,12,Single,Yes,Medium
+35,Male,High School,1621,7,Single,Yes,Medium
+29,Female,Bachelor,2041,5,Married,Yes,Medium
+33,Male,Bachelor,2457,9,Married,Yes,Medium
+35,Male,PhD,2839,10,Married,No,Medium
+18,Male,High School,1637,24,Married,Yes,Medium
+39,Male,High School,3244,9,Married,Yes,High
+25,Male,Bachelor,2010,4,Single,Yes,Low
+23,Male,Bachelor,2185,11,Married,Yes,Medium
+18,Female,Bachelor,1676,0,Married,Yes,Low
+18,Male,High School,800,9,Married,Yes,Low
+21,Male,High School,2818,10,Single,Yes,High
+27,Male,Bachelor,2715,13,Married,Yes,High
+54,Female,High School,2003,14,Single,Yes,High
+29,Male,Master,2246,7,Married,Yes,Medium
+36,Female,Bachelor,2561,9,Married,No,High
+39,Female,Bachelor,1106,6,Married,Yes,Low
+36,Male,Bachelor,1829,4,Married,Yes,Low
+34,Male,Bachelor,2755,11,Single,No,Medium
+23,Male,High School,1321,3,Married,No,Low
+49,Female,Master,2405,7,Married,Yes,Medium
+53,Male,High School,1250,5,Single,No,Low
+18,Male,Bachelor,2526,12,Married,Yes,Medium
+24,Male,High School,2175,19,Single,Yes,Medium
+32,Female,Bachelor,1069,3,Married,Yes,Low
+25,Male,High School,3015,0,Married,Yes,Low
+40,Male,High School,1685,9,Married,Yes,Medium
+27,Female,PhD,1632,10,Single,Yes,Low
+56,Female,High School,2340,11,Single,Yes,High
+46,Female,Bachelor,3004,7,Married,Yes,High
+37,Male,PhD,1488,8,Married,Yes,Low
+45,Female,High School,2243,11,Single,Yes,High
+46,Female,Bachelor,2500,15,Single,Yes,High
+29,Male,High School,2685,0,Single,Yes,Medium
+26,Female,High School,2323,8,Married,No,Medium
+35,Male,Bachelor,1943,11,Married,Yes,Medium
+43,Female,Master,1620,5,Married,Yes,Medium
+36,Male,High School,2260,18,Married,No,High
+19,Female,Bachelor,1449,6,Married,Yes,Low
+26,Male,Bachelor,800,9,Married,No,Low
+34,Female,Master,2505,12,Single,Yes,Medium
+34,Male,High School,2832,7,Married,Yes,High
+54,Female,Bachelor,800,0,Married,Yes,Low
+21,Female,Bachelor,1493,7,Married,Yes,Low
+40,Male,Bachelor,2633,15,Married,Yes,High
+49,Female,Master,3640,8,Married,No,High
+57,Female,Master,2214,5,Married,No,Medium
+30,Male,High School,1690,14,Married,Yes,Medium
+39,Male,Bachelor,2071,8,Single,No,Medium
+40,Female,High School,3162,7,Married,Yes,High
+36,Male,High School,1747,10,Married,Yes,Low
+34,Male,Bachelor,1640,13,Single,Yes,Medium
+39,Male,High School,1862,21,Married,No,High
+18,Male,Bachelor,1532,14,Married,Yes,Low
+41,Male,PhD,2285,15,Single,Yes,Medium
+36,Male,High School,3337,7,Married,No,High
+32,Female,Master,2426,4,Married,Yes,Medium
+55,Female,Bachelor,2023,10,Married,Yes,High
+28,Male,Bachelor,1995,10,Single,Yes,Low
+30,Female,Master,1105,4,Married,Yes,Low
+54,Female,High School,2818,9,Single,Yes,High
+26,Female,Bachelor,2145,11,Married,No,Medium
+29,Male,Bachelor,2073,11,Married,Yes,Low
+33,Male,High School,4435,12,Married,Yes,High
+43,Female,Master,2409,11,Single,Yes,High
+37,Female,Master,1673,7,Single,Yes,Medium
+22,Female,High School,1901,7,Single,Yes,Low
+29,Female,High School,3003,4,Single,No,High
+28,Male,Bachelor,2279,18,Married,Yes,Medium
+34,Female,High School,1193,10,Married,Yes,Low
+39,Male,Bachelor,2843,8,Married,Yes,High
+39,Male,High School,1732,5,Married,Yes,Low
+18,Female,Bachelor,3511,24,Single,No,High
+45,Male,High School,2956,4,Single,No,Medium
+37,Male,High School,1886,7,Single,Yes,High
+48,Female,Bachelor,3096,12,Married,No,High
+39,Male,Bachelor,2247,13,Married,Yes,Medium
+46,Female,PhD,2796,14,Single,Yes,High
+39,Female,Master,2539,19,Single,Yes,High
+48,Female,High School,1607,12,Married,Yes,Medium
+40,Male,High School,1749,4,Married,No,Medium
+34,Male,Master,2920,8,Married,Yes,High
+57,Male,Master,1965,11,Married,Yes,High
+43,Male,Master,1917,20,Single,No,High
+40,Male,High School,1531,3,Married,Yes,Low
+22,Female,PhD,2496,16,Married,No,Medium
+22,Male,High School,3643,10,Single,Yes,Medium
+37,Female,Bachelor,1452,14,Married,Yes,Medium
+36,Male,Master,2216,9,Married,No,Low
+28,Female,High School,3188,5,Single,Yes,High
+36,Female,Master,2144,13,Married,No,Medium
+50,Male,High School,2516,13,Single,Yes,High
+41,Male,PhD,1456,14,Single,No,Low
+23,Female,High School,2499,9,Married,Yes,Low
+33,Female,PhD,2068,7,Single,Yes,High
+26,Female,High School,2890,2,Married,No,Medium
+31,Male,Bachelor,3031,14,Married,Yes,Medium
+30,Male,Bachelor,4012,12,Single,No,High
+30,Female,Bachelor,2605,5,Married,No,Medium
+22,Female,High School,2428,7,Married,No,Low
+33,Male,Bachelor,2336,7,Married,No,Medium
+29,Female,High School,1952,2,Married,Yes,Low
+18,Male,Bachelor,2436,5,Single,Yes,Medium
+55,Male,High School,1993,4,Married,Yes,Medium
+45,Male,PhD,2317,7,Married,Yes,High
+31,Male,High School,3122,6,Married,Yes,Medium
+35,Female,High School,1495,1,Single,Yes,Low
+23,Male,High School,2997,20,Married,Yes,High
+51,Male,Bachelor,3121,16,Single,Yes,High
+53,Female,High School,2117,6,Married,Yes,Medium
+36,Female,Bachelor,800,11,Married,No,Low
+45,Female,Master,1774,12,Married,Yes,Medium
+36,Female,Bachelor,3107,15,Married,Yes,High
+21,Male,Bachelor,2183,5,Single,No,Low
+30,Female,High School,1500,15,Single,Yes,Medium
+36,Female,Bachelor,1846,7,Single,No,Low
+30,Female,High School,2788,3,Single,Yes,High
+32,Male,Bachelor,2582,13,Single,Yes,High
+34,Male,High School,2032,16,Married,Yes,Medium
+34,Female,Bachelor,1943,22,Married,No,Medium
+35,Male,High School,1925,4,Single,Yes,Low
+24,Female,Master,1554,13,Married,No,Low
+27,Female,High School,3330,7,Married,Yes,High
+22,Female,Bachelor,1974,13,Married,Yes,Medium
+44,Female,High School,3052,2,Married,Yes,High
+18,Female,Bachelor,3264,3,Single,Yes,Medium
+46,Male,Master,2898,6,Married,Yes,High
+48,Female,Bachelor,1897,10,Married,No,High
+31,Female,Bachelor,2482,6,Single,Yes,Medium
+18,Male,Master,2183,13,Single,Yes,Medium
+31,Male,Bachelor,1567,15,Single,Yes,Low
+34,Male,Bachelor,2427,12,Single,No,High
+24,Female,Bachelor,1374,18,Married,No,Low
+29,Male,Bachelor,3031,12,Married,No,High
+50,Female,High School,1874,3,Single,No,Low
+41,Male,Master,2340,16,Married,No,High
+25,Male,Bachelor,2398,6,Married,No,Medium
+19,Female,High School,2018,14,Single,No,Low
+31,Male,Bachelor,2610,17,Single,Yes,High
+32,Female,High School,1867,12,Single,Yes,Low
+39,Female,High School,2809,2,Single,Yes,Medium
+29,Female,Bachelor,1257,5,Single,Yes,Low
+40,Male,Master,2288,16,Single,Yes,High
+54,Female,Master,3557,9,Married,Yes,High
+43,Female,PhD,1499,10,Married,No,Low
+34,Female,Master,1725,13,Single,Yes,Medium
+33,Male,High School,2559,13,Single,No,High
+31,Female,High School,2325,11,Married,No,High
+46,Female,Master,2445,8,Married,No,High
+28,Female,High School,2542,8,Married,No,Medium
+35,Male,Bachelor,2644,14,Married,No,High
+35,Male,Bachelor,2976,12,Single,Yes,High
+29,Male,High School,2486,8,Single,Yes,Medium
+21,Male,Master,2031,15,Married,Yes,Low
+38,Male,Bachelor,2670,9,Single,No,Low
+34,Male,Bachelor,3529,5,Married,No,High
+40,Female,PhD,2107,6,Married,No,High
+29,Male,Bachelor,1517,5,Married,Yes,Low
+47,Female,High School,2974,8,Single,Yes,High
+26,Male,Bachelor,2115,16,Married,Yes,Medium
+52,Male,Master,800,5,Married,Yes,Low
+18,Male,Bachelor,2793,10,Single,Yes,Low
+39,Male,Bachelor,1825,6,Single,Yes,Low
+39,Female,Bachelor,2136,8,Married,No,Medium
+27,Female,High School,2432,2,Married,Yes,Low
+39,Male,Master,2333,8,Married,Yes,Medium
+47,Male,Master,2696,9,Single,No,High
+18,Male,High School,1895,12,Married,Yes,Low
+40,Female,High School,2559,11,Married,Yes,High
+18,Female,PhD,2018,4,Married,Yes,Low
+25,Female,Master,2717,15,Married,Yes,High
+51,Female,Master,2630,11,Married,Yes,High
+29,Female,Master,1545,10,Married,Yes,Low
+23,Male,Bachelor,2960,9,Single,Yes,High
+33,Male,Bachelor,1824,7,Married,Yes,Low
+55,Female,Bachelor,2765,11,Married,Yes,High
+18,Female,High School,2457,12,Single,No,Medium
+24,Female,Bachelor,3486,1,Married,Yes,Medium
+49,Female,Bachelor,2043,7,Married,No,Medium
+53,Male,Bachelor,1955,8,Single,Yes,High
+33,Female,Bachelor,2186,11,Single,Yes,Medium
+22,Female,Bachelor,1987,15,Married,No,Medium
+55,Male,High School,2759,6,Single,Yes,High
+50,Female,High School,1068,7,Married,Yes,Low
+41,Female,High School,1462,7,Single,Yes,Medium
+26,Male,High School,1452,5,Married,Yes,Low
+34,Male,PhD,2865,8,Single,No,High
+33,Male,High School,3397,13,Single,No,High
+38,Female,High School,2126,4,Married,Yes,Medium
+49,Male,Bachelor,2081,12,Married,Yes,High
+43,Female,Bachelor,2249,1,Single,Yes,Medium
+24,Female,High School,3013,7,Single,No,Medium
+48,Male,Bachelor,1550,8,Married,No,Low
+38,Female,Bachelor,2366,18,Married,No,Medium
+41,Female,High School,2882,8,Married,Yes,High
+49,Male,High School,2550,0,Married,No,High
+23,Male,Master,2332,0,Married,Yes,Low
+34,Female,Master,2900,10,Married,Yes,Medium
+29,Female,Bachelor,800,13,Married,No,Low
+19,Male,High School,2674,11,Married,Yes,Medium
+38,Male,Bachelor,1742,10,Single,No,High
+60,Male,Bachelor,918,15,Single,Yes,Medium
+18,Female,High School,2557,7,Single,No,Medium
+34,Male,Bachelor,3161,14,Single,Yes,High
+41,Female,Bachelor,2103,1,Single,Yes,Low
+36,Female,High School,2867,5,Married,Yes,Medium
+33,Male,Bachelor,3328,0,Married,Yes,High
+22,Female,Master,3120,8,Married,Yes,High
+37,Male,High School,3347,9,Single,Yes,High
+27,Female,Master,2719,10,Single,Yes,Medium
+18,Male,High School,2252,10,Married,Yes,Low
+46,Female,Master,1078,5,Single,Yes,Low
+44,Female,High School,2027,9,Married,Yes,Medium
+35,Male,High School,1609,2,Married,No,Low
+37,Male,Bachelor,3719,16,Single,No,High
+45,Male,Bachelor,2076,8,Single,Yes,Medium
+37,Male,Master,2286,7,Married,Yes,High
+44,Female,High School,2586,17,Married,No,High
+32,Female,High School,2230,3,Married,Yes,Medium
+48,Male,Bachelor,3386,4,Married,Yes,High
+38,Female,Bachelor,1764,4,Single,Yes,Low
+36,Female,High School,2336,9,Married,Yes,Medium
+22,Female,Bachelor,1680,12,Single,Yes,Low
+37,Male,Bachelor,1275,13,Single,Yes,Low
+26,Male,Master,1771,22,Married,Yes,Medium
+28,Male,PhD,2174,0,Married,Yes,Low
+26,Female,High School,1899,13,Single,Yes,Medium
+24,Male,Bachelor,1715,7,Single,Yes,Low
+56,Male,High School,1215,7,Single,Yes,Medium
+48,Male,Bachelor,2141,6,Single,Yes,Medium
+54,Female,Bachelor,1146,5,Single,No,Low
+22,Male,PhD,2732,18,Married,Yes,Medium
+35,Male,Bachelor,2257,14,Married,Yes,Low
+22,Male,PhD,1179,10,Married,Yes,Low
+28,Male,Master,1983,16,Married,Yes,Medium
+25,Female,Master,1673,2,Married,Yes,Low
+47,Male,Master,2423,3,Married,Yes,Medium
+31,Male,Bachelor,3138,0,Married,No,Low
+45,Female,High School,887,6,Single,Yes,Low
+41,Male,High School,2280,10,Married,No,Medium
+58,Male,High School,2087,10,Married,Yes,High
+20,Female,Bachelor,2669,10,Married,No,Medium
+47,Male,Bachelor,2349,2,Married,No,Medium
+46,Male,Bachelor,1673,14,Married,No,Medium
+25,Male,PhD,1976,11,Married,Yes,Low
+45,Male,Master,1642,13,Single,Yes,Medium
+38,Female,High School,2953,0,Married,No,High
+32,Female,High School,2214,11,Single,No,Medium
